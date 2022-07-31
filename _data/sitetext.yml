@@ -23,7 +23,7 @@ en: &DEFAULT_EN
             platform for students to pursue mechanical, electrical, computer, and systems engineering in depth. By working 
             together to achieve this in time for competition, members also develop the communication and leadership skills 
             necessary for success as an engineer.<br><br>
-            <img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width="600">"
+            <img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width=100%>"
     section: about
 
   sponsorship:
@@ -34,11 +34,11 @@ en: &DEFAULT_EN
 
           <b>Parts</b>: Your top-of-the-line parts will help complete a student designed racecar. Help us get an edge 
           on the competition.<br>
-          <b>Cash</b>: Your cash contribution will help us purchase the tools and parts we need to design and build <br>
+          <b>Cash</b>: Your cash contribution will help us purchase the tools and parts we need to design and build
           a competitive vehicle. You make this possible for us!<br>
-          <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with 
+          <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with
           professionals are learning experiences for our members.<br>
-          <b>Services</b>: You have capabilities we don’t. Help us make the advanced parts we don’t have the capability <br>
+          <b>Services</b>: You have capabilities we don’t. Help us make the advanced parts we don’t have the capability
           to make in house.<br><br>
 
           In exchange, our team has many benefits for sponsors including recruiting members from our team and being featured
@@ -49,7 +49,7 @@ en: &DEFAULT_EN
 
   competition:
     title: "Competition Events"
-    text: "Our team competes in the Formula SAE Electric competition where we compete in the following events"
+    text: "Our team competes in the Formula SAE Electric competition where we compete in the following events."
     section: events
     list:
       - title: "Acceleration"
