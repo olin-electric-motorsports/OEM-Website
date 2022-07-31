@@ -93,6 +93,7 @@ en: &DEFAULT_EN
         year: "2012"
         desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
                 and gave us a foundation for how electric veichles work."
+        image: assets/img/timeline/4.jpg
       - title: "Go-Kart Completion"
         year: "2013"
         desc: "We completed our first car which was an electric go-kart."
@@ -136,7 +137,7 @@ en: &DEFAULT_EN
       - title: "MKV Completion"
         year: "2022"
         desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
-        image: assets/img/team-photos/mk5Square.png
+        image: assets/img/timeline/4.jpg
         alt:
 
   
@@ -148,7 +149,7 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Phone Number*"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
