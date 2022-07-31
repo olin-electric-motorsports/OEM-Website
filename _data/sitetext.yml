@@ -11,51 +11,70 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
+    title:
     text: Olin Electric Motorsports
-    button: Tell Me More
+    button: Learn More About Us
     buttonlink: "#about"
-  
+
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: Olin Electric Motorsports is an undergraduate organization at Olin College focused on educating engineers through 
+            the development and manufacture of electric vehicles. We believe that electric vehicles provide an excellent 
+            platform for students to pursue mechanical, electrical, computer, and systems engineering in depth. By working 
+            together to achieve this in time for competition, members also develop the communication and leadership skills 
+            necessary for success as an engineer.<br><br>
+            <img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width="600">"
     section: about
-  
-  Sponsorship:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: sponsorship
 
-  services:
+  sponsorship:
+    title: "Sponsor Us"
+    text: "Our team relies on collaborative relationships with our sponsors"
+    body: "Our team is entirely independently funded and relies on sponsorship from companies and groups to function 
+          and fund our team’s development. There are many ways to support our team:<br><br>
+
+          <b>Parts</b>: Your top-of-the-line parts will help complete a student designed racecar. Help us get an edge 
+          on the competition.<br>
+          <b>Cash</b>: Your cash contribution will help us purchase the tools and parts we need to design and build <br>
+          a competitive vehicle. You make this possible for us!<br>
+          <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with 
+          professionals are learning experiences for our members.<br>
+          <b>Services</b>: You have capabilities we don’t. Help us make the advanced parts we don’t have the capability <br>
+          to make in house.<br><br>
+
+          In exchange, our team has many benefits for sponsors including recruiting members from our team and being featured
+          in our team’s marketing. More details for sponsorship can be found in our sponsorship package below and if you 
+          have any questions, feel free to use the contact form.<br><br>
+          "
+    packageLink: "https://drive.google.com/file/d/17SmbQ8DlexkeLgSSQ6c4O47WGwrMzT2r/preview"
+
+  competition:
     title: "Competition Events"
-    text: "These are the events that we compete in at competition"
+    text: "Our team competes in the Formula SAE Electric competition where we compete in the following events"
     section: events
     list:
       - title: "Acceleration"
-        desc: "How quickly does our car accelerate."
+        desc: "Traverse a 75 meter straight course as quickly as possible. Measures straight-line acceleration."
         icon: fas fa-tachometer-alt #find more at https://fontawesome.com/icons
       - title: "Autocross"
-        desc: "A short lap with many turns and car weaves to test our handeling"
+        desc: "Finish a single lap around a tight course. Appraises maneuverability and handling."
         icon: fas fa-road
       - title: "Skidpad"
-        desc: "A figure eight track to see how well we can corner"
+        desc: "Complete laps around a figure eight course. Assesses constant-radius cornering."
         icon: fas fa-infinity
       - title: "Endurance"
-        desc: "A 20 km race where our car has to both last through it and complete the course as quickly as possible"
+        desc: "Make it 22km without any breakdowns. Tests durability and reliablity."
         icon: fas fa-dumbbell
       - title: "Efficiency"
-        desc: "Determining efficient our car is during the endurance event"
+        desc: "Use the least amount of energy while completing the endurance event."
         icon: fas fa-battery-quarter
       - title: "Design"
-        desc: "We present our car to a panel of industry experts that provide feedback and judge us on our design."
+        desc: "Show the team’s knowledge of the car’s design and the decisions behind it."
         icon: fas fa-drafting-compass
       - title: "Business"
-        desc: "If we were a business how would we go about selling our car?"
+        desc: "Illustrate why the car would sell in the amateur racing market."
         icon: fas fa-chart-line
       - title: "Cost"
-        desc: "How would we go about selling our car?"
+        desc: "Demonstrate that the team considered the cost of parts and operations in the design of the car."
         icon: fas fa-dollar-sign
 
   timeline:
@@ -111,50 +130,10 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
 
-
-
-
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  
 
   contact:
     title: "Contact Us"
-    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -178,6 +157,7 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://www.instagram.com/olinelectricmotorsports/?hl=en
         icon: "fab fa-instagram"
+      - url: https://www.youtube.com/c/OlinElectricMotorsports
+        icon: "fab fa-youtube"
 en-US:
   <<: *DEFAULT_EN
-

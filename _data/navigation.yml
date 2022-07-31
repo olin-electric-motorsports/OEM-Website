@@ -13,15 +13,17 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
-    - title: "Sponsorship"
+    - title: "Sponsor Us"
       section: sponsorship
-    - title: "Competition Events"
+    - title: "Competition"
       section: events
-    - title: "Team History"
+    - title: "History"
       section: history
+    #- title: "Sponsors"
+    #  section: sponsors
     - title: "Contact"
       section: contact
-    - title: "Meet our team"
-      url: meet-our-team
+    #- title: "Meet our team"
+    #  url: meet-our-team
 en-US:
   <<: *DEFAULT_EN
