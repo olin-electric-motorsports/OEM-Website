@@ -89,35 +89,44 @@ en: &DEFAULT_EN
         desc: "In 2012, a group of Olin students decided to find REVO or Research of Electic Veichles at Olin College"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "GoKart Completion"
+      - title: "Electric Bike Completed"
+        year: "2012"
+        desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
+                and gave us a foundation for how electric veichles work."
+      - title: "Go-Kart Completion"
         year: "2013"
-        desc: "In 2013, we completed our first formula style car, MK1. It competed at the Formula SAE Hybrid event."
-        image: assets/img/timeline/2.jpg
+        desc: "We completed our first car which was an electric go-kart."
+        image: assets/img/team-photos/gokartSquare.png
+        alt:
+      - title: "Trike Completion"
+        year: "2014"
+        desc: "Our third veichle was an electric trike."
+        image: assets/img/team-photos/trikeSquare.png
         alt:
       - title: "MKI Competition"
         year: "2016"
         desc: "We completed our first formula style race car in with MKI which competed in the Formula SAE Hybrid competition."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/team-photos/mk1Square.png
         alt: 
       - title: "Olin Electric Motorsports Rebrand"
         year: "2016"
         desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric veichles, we were now building and competing with electric race cars."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/oemlogos/oemRetro.jpg
         alt: 
       - title: "MKII Competition"
         year: "2017"
         desc: "We completed our first fully electric formula style race car with MKII which made it to the endurance event but was not able to complete it due to a mechanical failure."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/team-photos/mk2Square.png
         alt: 
       - title: "MKIII Competition"
         year: "2018"
         desc: "MKIII was our second fully electric car."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/team-photos/mk3Square.png
         alt: 
       - title: "MKIV Completion"
         year: "2019"
         desc: "MKIV was our third fully electric car."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/team-photos/mk4Square.png
         alt:
       - title: "Formula SAE Virtual Design Event"
         year: "2022"
@@ -127,7 +136,7 @@ en: &DEFAULT_EN
       - title: "MKV Completion"
         year: "2022"
         desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/team-photos/mk5Square.png
         alt:
 
   
