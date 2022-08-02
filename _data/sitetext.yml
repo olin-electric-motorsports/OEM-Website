@@ -30,16 +30,16 @@ en: &DEFAULT_EN
     title: "Sponsor Us"
     text: "Our team relies on collaborative relationships with our sponsors"
     body: "Our team is entirely independently funded and relies on sponsorship from companies and groups to function 
-          and fund our team’s development. There are many ways to support our team:<br><br>
+          and fund our team’s development. There are many ways to support our team:<br><br><br>
 
           <b>Parts</b>: Your top-of-the-line parts will help complete a student designed racecar. Help us get an edge 
-          on the competition.<br>
+          on the competition.<br><br>
           <b>Cash</b>: Your cash contribution will help us purchase the tools and parts we need to design and build
-          a competitive vehicle. You make this possible for us!<br>
+          a competitive vehicle. You make this possible for us!<br><br>
           <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with
-          professionals are learning experiences for our members.<br>
+          professionals are learning experiences for our members.<br><br>
           <b>Services</b>: You have capabilities we don’t. Help us make the advanced parts we don’t have the capability
-          to make in house.<br><br>
+          to make in house.<br><br><br>
 
           In exchange, our team has many benefits for sponsors including recruiting members from our team and being featured
           in our team’s marketing. More details for sponsorship can be found in our sponsorship package below and if you 
@@ -84,61 +84,71 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "REVO Founding"
-        year: "2012"
-        desc: "In 2012, a group of Olin students decided to find REVO or Research of Electic Veichles at Olin College"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Electric Bike Completed"
-        year: "2012"
-        desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
-                and gave us a foundation for how electric veichles work."
+      - title: "MKV Completion"
+        year: "2022"
+        desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
         image: assets/img/timeline/4.jpg
-      - title: "Go-Kart Completion"
-        year: "2013"
-        desc: "We completed our first car which was an electric go-kart."
-        image: assets/img/team-photos/gokartSquare.png
         alt:
-      - title: "Trike Completion"
-        year: "2014"
-        desc: "Our third veichle was an electric trike."
-        image: assets/img/team-photos/trikeSquare.png
+      - title: "Formula SAE Virtual Design Event"
+        year: "2020"
+        desc: "Due to COVID-19, we competed at the Formula SAE virtual design event where we got first place in our division!"
+        image: assets/img/timeline/4.jpg
         alt:
-      - title: "MKI Competition"
-        year: "2016"
-        desc: "We completed our first formula style race car in with MKI which competed in the Formula SAE Hybrid competition."
-        image: assets/img/team-photos/mk1Square.png
-        alt: 
-      - title: "Olin Electric Motorsports Rebrand"
-        year: "2016"
-        desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric veichles, we were now building and competing with electric race cars."
-        image: assets/img/oemlogos/oemRetro.jpg
+      - title: "MKIV Completion"
+        year: "2019"
+        desc: "MKIV was our third fully electric car."
+        image: assets/img/team-photos/mk4Square.png
+        alt:
+      - title: "MKIII Competition"
+        year: "2018"
+        desc: "MKIII was our second fully electric car."
+        image: assets/img/team-photos/mk3Square.png
         alt: 
       - title: "MKII Competition"
         year: "2017"
         desc: "We completed our first fully electric formula style race car with MKII which made it to the endurance event but was not able to complete it due to a mechanical failure."
         image: assets/img/team-photos/mk2Square.png
         alt: 
-      - title: "MKIII Competition"
-        year: "2018"
-        desc: "MKIII was our second fully electric car."
-        image: assets/img/team-photos/mk3Square.png
+      - title: "Olin Electric Motorsports Rebrand"
+        year: "2016"
+        desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric veichles, we were now building and competing with electric race cars."
+        image: assets/img/oemlogos/oemRetro.jpg
         alt: 
-      - title: "MKIV Completion"
-        year: "2019"
-        desc: "MKIV was our third fully electric car."
-        image: assets/img/team-photos/mk4Square.png
+      - title: "MKI Competition"
+        year: "2016"
+        desc: "We completed our first formula style race car in with MKI which competed in the Formula SAE Hybrid competition."
+        image: assets/img/team-photos/mk1Square.png
         alt:
-      - title: "Formula SAE Virtual Design Event"
-        year: "2022"
-        desc: "Due to COVID-19, we competed at the Formula SAE virtual design event where we got first place in our division!"
+      - title: "Trike Completion"
+        year: "2014"
+        desc: "Our third veichle was an electric trike."
+        image: assets/img/team-photos/trikeSquare.png
+        alt:
+      - title: "Go-Kart Completion"
+        year: "2013"
+        desc: "We completed our first car which was an electric go-kart."
+        image: assets/img/team-photos/gokartSquare.png
+        alt:
+      - title: "Electric Bike Completed"
+        year: "2012"
+        desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
+                and gave us a foundation for how electric veichles work."
         image: assets/img/timeline/4.jpg
+      - title: "REVO Founding"
+        year: "2012"
+        desc: "In 2012, a group of Olin students decided to find REVO or Research of Electic Veichles at Olin College"
+        image: assets/img/timeline/1.jpg
         alt:
-      - title: "MKV Completion"
-        year: "2022"
-        desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
-        image: assets/img/timeline/4.jpg
-        alt:
+
+
+
+
+
+
+
+
+
+
 
   
 
