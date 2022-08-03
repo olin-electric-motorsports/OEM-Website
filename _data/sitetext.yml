@@ -87,7 +87,7 @@ en: &DEFAULT_EN
       - title: "MKV Completion"
         year: "2022"
         desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/team-photos/mk5square.jpg
         alt:
       - title: "Formula SAE Virtual Design Event"
         year: "2020"
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
         alt: 
       - title: "Olin Electric Motorsports Rebrand"
         year: "2016"
-        desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric veichles, we were now building and competing with electric race cars."
+        desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric vehicles, but also building and competing with other collegiate teams."
         image: assets/img/oemlogos/oemRetro.jpg
         alt: 
       - title: "MKI Competition"
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Trike Completion"
         year: "2014"
-        desc: "Our third veichle was an electric trike."
+        desc: "Our third vehicles was an electric trike."
         image: assets/img/team-photos/trikeSquare.png
         alt:
       - title: "Go-Kart Completion"
@@ -132,11 +132,11 @@ en: &DEFAULT_EN
       - title: "Electric Bike Completed"
         year: "2012"
         desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
-                and gave us a foundation for how electric veichles work."
+                and gave us a foundation for how electric vehicles work."
         image: assets/img/timeline/4.jpg
       - title: "REVO Founding"
         year: "2012"
-        desc: "In 2012, a group of Olin students decided to find REVO or Research of Electic Veichles at Olin College"
+        desc: "In 2012, a group of curious Olin students dedicated themselves to the research of electric vehicles, thus founding REVO - Research of Electric Vehicles at Olin College"
         image: assets/img/timeline/1.jpg
         alt:
 
