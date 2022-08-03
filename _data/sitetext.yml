@@ -139,19 +139,7 @@ en: &DEFAULT_EN
         desc: "In 2012, a group of curious Olin students dedicated themselves to the research of electric vehicles, thus founding REVO - Research of Electric Vehicles at Olin College"
         image: assets/img/timeline/1.jpg
         alt:
-
-
-
-
-
-
-
-
-
-
-
-  
-
+        
   contact:
     title: "Contact Us"
     section: contact
