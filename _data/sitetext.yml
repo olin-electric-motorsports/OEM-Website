@@ -18,126 +18,140 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    body: Olin Electric Motorsports is an undergraduate organization at Olin College focused on educating engineers through 
-            the development and manufacturing of electric vehicles. We believe that electric vehicles provide an excellent 
-            platform for students to pursue mechanical, electrical, computer, and systems engineering in depth. By working 
-            together to achieve this in time for competition, members also develop the communication and leadership skills 
-            necessary for success as an engineer.<br><br>
-            <img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width=100%>"
+    body: Olin Electric Motorsports is an undergraduate project team at Olin College of
+          Engineering focused on educating engineers through developing and manufacturing
+          electric race cars. Electric vehicles provide a platform for our team to pursue
+          in-depth mechanical, electrical, computer, and systems engineering. By working 
+          together to compete each season, members develop their technical knowledge as
+          well as communication and leadership skills essential for success as a professional
+          engineer.<br><br><img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width=100%>
     section: about
 
   sponsorship:
     title: "Sponsor Us"
-    text: "Our team relies on collaborative relationships with our sponsors"
+    text: "Our team relies on collaborative relationships with our sponsors."
     body: "Our team is entirely independently funded and relies on sponsorship from companies and groups to function 
-          and fund our team’s development. There are many ways to support our team:<br><br><br>
+          and fund our team's development. There are many ways to support our team:<br><br><br>
 
-          <b>Parts</b>: Your top-of-the-line parts will help complete a student designed racecar. Help us get an edge 
-          on the competition.<br><br>
+          <b>Parts</b>: Your top-of-the-line parts will contribute to our student-designed race car. Help us get 
+          an edge on the competition.<br><br>
           <b>Cash</b>: Your cash contribution will help us purchase the tools and parts we need to design and build
           a competitive vehicle. You make this possible for us!<br><br>
-          <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with
-          professionals are learning experiences for our members.<br><br>
-          <b>Services</b>: You have capabilities we don’t. Help us make the advanced parts we don’t have the capability
-          to make in house.<br><br><br>
+          <b>Mentorship</b>: Your experience and advice will help guide the team to success. Design reviews with professionals
+           are <i>essential</i> learning experiences for our members.<br><br>
+          <b>Services</b>: Your company has production capabilities that our team doesn't. Help us make innovative 
+          parts we can't make in-house.<br><br><br>
 
-          In exchange, our team has many benefits for sponsors including recruiting members from our team and being featured
-          in our team’s marketing. More details for sponsorship can be found in our sponsorship package below and if you 
-          have any questions, feel free to use the contact form.<br><br>
+          As a thank you for your support, our team offers various levels of benefits to our sponsors such as member recruitment 
+          and features in team marketing. Find more details in our sponsorship package below. If you have any questions, use the 
+          [Contact Form](#contact) to reach out to us!<br><br>
           "
     packageLink: "https://drive.google.com/file/d/17SmbQ8DlexkeLgSSQ6c4O47WGwrMzT2r/preview"
 
   competition:
     title: "Competition Events"
-    text: "Our team competes in the Formula SAE Electric competition where we compete in the following events."
+    text: "Olin Electric Motorsports competes under Formula SAE Electric. Global competitions include the 
+          following events designed to rigorously test every aspect of our vehicle:"
     section: events
     list:
       - title: "Acceleration"
-        desc: "Traverse a 75 meter straight course as quickly as possible. Measures straight-line acceleration."
+        desc: "<b>task:</b> Traverse 75m straight-line course.<br>
+                <b>criteria:</b> acceleration and speed"
         icon: fas fa-tachometer-alt #find more at https://fontawesome.com/icons
       - title: "Autocross"
-        desc: "Finish a single lap around a tight course. Appraises maneuverability and handling."
+        desc: "<b>task:</b> Complete a single lap around a tight course.<br>
+                <b>criteria:</b> handling and speed"
         icon: fas fa-road
       - title: "Skidpad"
-        desc: "Complete laps around a figure eight course. Assesses constant-radius cornering."
+        desc: "<b>task:</b> Complete laps around a figure 8 course.<br>
+                <b>criteria:</b> turning radius and speed"
         icon: fas fa-infinity
       - title: "Endurance"
-        desc: "Make it 22km without any breakdowns. Tests durability and reliablity."
+        desc: "<b>task:</b> Complete a 20-30 km race.<br>
+                <b>criteria:</b> completion and speed"
         icon: fas fa-dumbbell
       - title: "Efficiency"
-        desc: "Use the least amount of energy while completing the endurance event."
+        desc: "<b>task:</b> Use the least amount of energy during the Endurance race.<br>
+                <b>criteria:</b> energy used"
         icon: fas fa-battery-quarter
       - title: "Design"
-        desc: "Show the team’s knowledge of the car’s design and the decisions behind it."
+        desc: "<b>task:</b> Justify design decisions to industry experts.<br>
+                <b>criteria:</b> good design practices"
         icon: fas fa-drafting-compass
       - title: "Business"
-        desc: "Illustrate why the car would sell in the amateur racing market."
+        desc: "<b>task:</b> Illustrate why the car would sell in the amateur racing market.<br>
+                <b>criteria:</b> business thoughfulness"
         icon: fas fa-chart-line
       - title: "Cost"
-        desc: "Demonstrate that the team considered the cost of parts and operations in the design of the car."
+        desc: "<b>task:</b> demonstrate thorough accounting of costs of car design.<br>
+                <b>criteria:</b> low cost, robust design"
         icon: fas fa-dollar-sign
 
   timeline:
     title: "Our history"
-    text: "Olin Electric Motorsports was founded over 10 years ago"
+    text: "Olin Electric Motorsports was founded in 2012 as a college research group by a handful of undergraduate students. Now, we have over 50 members and compete in international Formula SAE 
+    Electric competitions with a new open-wheel electric race car every year."
     section: history
     # left is the default
     #start_align: "left"
     events:
-      - title: "MKV Completion"
-        year: "2022"
-        desc: "We completed MKV after we were able to return to school from COVID-19. It was a great learning experience for new members on the team that had never built a car before."
-        image: assets/img/team-photos/mk5square.jpg
-        alt:
-      - title: "Formula SAE Virtual Design Event"
-        year: "2020"
-        desc: "Due to COVID-19, we competed at the Formula SAE virtual design event where we got first place in our division!"
-        image: assets/img/timeline/4.jpg
-        alt:
-      - title: "MKIV Completion"
-        year: "2019"
-        desc: "MKIV was our third fully electric car."
-        image: assets/img/team-photos/mk4Square.png
-        alt:
-      - title: "MKIII Competition"
-        year: "2018"
-        desc: "MKIII was our second fully electric car."
-        image: assets/img/team-photos/mk3Square.png
-        alt: 
-      - title: "MKII Competition"
-        year: "2017"
-        desc: "We completed our first fully electric formula style race car with MKII which made it to the endurance event but was not able to complete it due to a mechanical failure."
-        image: assets/img/team-photos/mk2Square.png
-        alt: 
-      - title: "Olin Electric Motorsports Rebrand"
-        year: "2016"
-        desc: "We rebranded to Olin Electric Motorsports as it better represented what we do as a team. No longer were we just doing research about electric vehicles, but also building and competing with other collegiate teams."
-        image: assets/img/oemlogos/oemRetro.jpg
-        alt: 
-      - title: "MKI Competition"
-        year: "2016"
-        desc: "We completed our first formula style race car in with MKI which competed in the Formula SAE Hybrid competition."
-        image: assets/img/team-photos/mk1Square.png
-        alt:
-      - title: "Trike Completion"
-        year: "2014"
-        desc: "Our third vehicles was an electric trike."
-        image: assets/img/team-photos/trikeSquare.png
-        alt:
-      - title: "Go-Kart Completion"
-        year: "2013"
-        desc: "We completed our first car which was an electric go-kart."
-        image: assets/img/team-photos/gokartSquare.png
+      - title: "REVO Founding"
+        year: "2012"
+        desc: "A group of Olin students formed a research team dedicated to electric vehicles named REVO: Research of Electric Vehicles at Olin (College)"
+        image: assets/img/timeline/1.jpg
         alt:
       - title: "Electric Bike Completed"
         year: "2012"
-        desc: "The first project we completed was a bike we modified to be electric. It took us almost a year to complete
-                and gave us a foundation for how electric vehicles work."
+        desc: "REVO's first completed vehicle was a bicycle modified to become an e-bike. 
+        The project took nearly a year to complete and laid the foundation for further electric vehicle research and development."
         image: assets/img/timeline/4.jpg
-      - title: "REVO Founding"
-        year: "2012"
-        desc: "In 2012, a group of curious Olin students dedicated themselves to the research of electric vehicles, thus founding REVO - Research of Electric Vehicles at Olin College"
-        image: assets/img/timeline/1.jpg
+      - title: "Go-Kart Completion"
+        year: "2013"
+        desc: "Our second vehicle was an electric go-kart, which is now being used as a testing platform alongside 
+        our current Formula-style race cars."
+        image: assets/img/team-photos/gokartSquare.png
+        alt:
+      - title: "Trike Completion"
+        year: "2014"
+        desc: "Our third vehicle was an electric tricycle."
+        image: assets/img/team-photos/trikeSquare.png
+        alt:
+      - title: "MKI Competition"
+        year: "2016"
+        desc: "Mk I was our first Formula-style race car, built to compete in Formula SAE's Hybrid class."
+        image: assets/img/team-photos/mk1Square.png
+        alt:
+      - title: "Olin Electric Motorsports Rebrand"
+        year: "2016"
+        desc: "REVO became Olin Electric Motorsports to better represent the team. Rather than purely focusing on electric vehicle research, our team expanded to build electric race cars to compete against other collegiate teams."
+        image: assets/img/oemlogos/oemRetro.jpg
+        alt: 
+      - title: "MKII Competition"
+        year: "2017"
+        desc: "Mk II was our first fully electric Formula-style race car. At the community-run Formula North competition, Mk II passed all inspections and tests but encountered a mechanical failure in the Endurance event."
+        image: assets/img/team-photos/mk2Square.png
+        alt: 
+      - title: "MKIII Competition"
+        year: "2018"
+        desc: "Mk III was our second fully electric race car which competed at the community-run Formula North event."
+        image: assets/img/team-photos/mk3Square.png
+        alt: 
+      - title: "MKIV Completion"
+        year: "2019"
+        desc: "Mk IV was our third entry into FSAE Electric, placing 8th in the Electric Vehicle class at Formula SAE North."
+        image: assets/img/team-photos/mk4Square.png
+        alt:
+      - title: "Formula SAE Virtual Design Event"
+        year: "2020"
+        desc: "At virtual competition due to COVID-19, we participated in the Design event, placing 1st in our division at Formula SAE Virtual"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "MKV Completion"
+        year: "2022"
+        desc: "After returning to in-person school, the team completed Mk V Andromeda and brought the car to competition, where we placed 30th in 
+        the Electric Vehicle class at Formula SAE Michigan. Most of our team hadn't experienced a full design cycle and only a few had been to 
+        competition, making Andromeda's completion a milestone for the team."
+        image: assets/img/team-photos/mk5square.jpg
         alt:
 
   contact:
