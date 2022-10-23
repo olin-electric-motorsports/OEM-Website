@@ -15,8 +15,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Sponsor Us"
       section: sponsorship
-    - title: "Sponsors"
-      url: sponsors
+    #- title: "Sponsors"
+    #  url: sponsors
     - title: "Competition"
       section: events
     - title: "History"
