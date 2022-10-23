@@ -204,8 +204,84 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ishaan-oberoi/
             icon: fab fa-linkedin-in
-    
+  aboutSponsors:
+    title: "Our Sponsors"
+    body: Without our sponsors our team would not be able to exist. We are very appreciative to the support
+          we receive from our sponsors!
   supercharger:
+    title: "Supercharger Sponsors"
+    text: 
+    subtext: 
+    section: 
+    people:
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+  
+  lightning:
+    title: "Lightning Sponsors"
+    text: 
+    subtext: 
+    section: 
+    people:
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+  energizer:
+    title: "Energizer Sponsors"
+    text: 
+    subtext: 
+    section: 
+    people:
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+  amped:
+    title: "Amped Sponsors"
+    text: 
+    subtext: 
+    section: 
+    people:
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+      - image: assets/img/sponsors/bose.png
+        url: https://www.bose.com/en_us/index.html
+        alt: "Bose"
+  booster:
+    title: "Booster Sponsors"
+    text: 
+    subtext: 
+    section: 
+    people:
+      - title: bose
+      - title: bose
+      - title: bose
+      - title: bose
+      - title: bose
+      - title: bose
+      - title: bose
+      - title: bose
+    
+  portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
