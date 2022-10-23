@@ -98,13 +98,13 @@ en: &DEFAULT_EN
       - title: "REVO Founding"
         year: "2012"
         desc: "A group of Olin students formed a research team dedicated to electric vehicles named REVO: Research of Electric Vehicles at Olin (College)"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/team-photos/revo.png
         alt:
       - title: "Electric Bike Completed"
         year: "2012"
         desc: "REVO's first completed vehicle was a bicycle modified to become an e-bike. 
         The project took nearly a year to complete and laid the foundation for further electric vehicle research and development."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/team-photos/bike.png
       - title: "Go-Kart Completion"
         year: "2013"
         desc: "Our second vehicle was an electric go-kart, which is now being used as a testing platform alongside 
@@ -144,7 +144,7 @@ en: &DEFAULT_EN
       - title: "Formula SAE Virtual Design Event"
         year: "2020"
         desc: "At virtual competition due to COVID-19, we participated in the Design event, placing 1st in our division at Formula SAE Virtual"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/team-photos/MkVRender.png
         alt:
       - title: "MKV Completion"
         year: "2022"
@@ -167,6 +167,44 @@ en: &DEFAULT_EN
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
+
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Our team of engineers design, build, and compete with a formula style electric race car every year"
+    subtext: 
+    section: team
+    people:
+      - name: "Ishaan Oberoi"
+        role: "Project Manager"
+        image: assets/img/team-members/Ishaan.jpg
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Project Manager"
+        image: assets/img/team-members/Ishaan.jpg
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Project Manager"
+        image: assets/img/team-members/Ishaan.jpg
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Project Manager"
+        image: assets/img/team-members/Ishaan.jpg
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+      - name: "Ishaan Oberoi"
+        role: "Project Manager"
+        image: assets/img/team-members/Ishaan.jpg
+        social:
+          - url: https://www.linkedin.com/in/ishaan-oberoi/
+            icon: fab fa-linkedin-in
+        
 
   footer:
     legal: "Privacy Policy"
