@@ -214,10 +214,10 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
   
@@ -227,10 +227,10 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
   energizer:
@@ -239,13 +239,13 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
   amped:
@@ -254,16 +254,16 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/bose.png
+      - image: assets/img/sponsors/Bose.png
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
   booster:
