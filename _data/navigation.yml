@@ -15,15 +15,15 @@ en: &DEFAULT_EN
       section: about
     - title: "Sponsor Us"
       section: sponsorship
+    - title: "Sponsors"
+      url: sponsors
     - title: "Competition"
       section: events
     - title: "History"
       section: history
-    #- title: "Sponsors"
-    #  section: sponsors
     - title: "Contact"
       section: contact
-    #- title: "Meet our team"
-    #  url: meet-our-team
+    #- title: "Our team"
+    #  url: our-team
 en-US:
   <<: *DEFAULT_EN

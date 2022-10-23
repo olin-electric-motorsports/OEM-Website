@@ -204,7 +204,12 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ishaan-oberoi/
             icon: fab fa-linkedin-in
-        
+    
+  supercharger:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
 
   footer:
     legal: "Privacy Policy"
