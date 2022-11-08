@@ -214,12 +214,12 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/Bose.png
+      - image: assets/img/sponsors/Bose.svg
         url: https://www.bose.com/en_us/index.html
         alt: "Bose"
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
+      - image: assets/img/sponsors/Calpak.svg
+        url: https://www.calpak-usa.com/
+        alt: "Calpak"
   
   lightning:
     title: "Lightning Sponsors"
@@ -227,27 +227,25 @@ en: &DEFAULT_EN
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
+      - image: assets/img/sponsors/Ford.svg
+        url: https://www.ford.com/
+        alt: "Ford"
+      - image: assets/img/sponsors/Hesse.jpg
+        url: https://www.hesse-mechatronics.com/en/
+        alt: "Hesse Mechatronics"
+      - image: assets/img/sponsors/rapid-harness.png
+        url: https://rapidharness.com/
+        alt: "RapidHarness"
   energizer:
     title: "Energizer Sponsors"
     text: 
     subtext: 
     section: 
     people:
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
-      - image: assets/img/sponsors/Bose.png
-        url: https://www.bose.com/en_us/index.html
-        alt: "Bose"
+      - image: assets/img/sponsors/Haas.svg
+        url: https://ghaasfoundation.org/
+        alt: "Haas"
+      - name: Michael and Jennifer Coleman
   amped:
     title: "Amped Sponsors"
     text: 

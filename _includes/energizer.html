@@ -12,7 +12,9 @@
 	<div class="col-4">
 	  <div class="energizer-sponsor">
 		<a href="{{ person.url }}">
-		<img class="mx-auto" src="{{ person.image }}" alt="{{ person.alt }}">
+		{% if person.image %}
+			<img class="mx-auto" src="{{ person.image }}" alt="{{ person.alt }}">
+		{% endif %}
 		</a>
 		<h4>{{ person.name }}</h4>
 		<p class="text-muted">{{ person.role }}</p>
