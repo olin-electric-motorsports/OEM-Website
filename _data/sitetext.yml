@@ -29,9 +29,10 @@ en: &DEFAULT_EN
 
   sponsorship:
     title: "Sponsor Us"
-    text: "Our team relies on collaborative relationships with our sponsors."
+    text: Our team relies on collaborative relationships with our sponsors.
     body: "Our team is entirely independently funded and relies on sponsorship from companies and groups to function 
-          and fund our team's development. There are many ways to support our team:<br><br><br>
+          and fund our team's development. We are very appreciative of [our current sponsors](/sponsors).
+          We are always looking for new sponsors, and there are many ways to support our team:<br><br><br>
 
           <b>Parts</b>: Your top-of-the-line parts will contribute to our student-designed race car. Help us get 
           an edge on the competition.<br><br>
