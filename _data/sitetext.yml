@@ -171,7 +171,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Our team of engineers design, build, and compete with a formula-style electric race car every year"
+    text: "Our team of engineers design, build, and compete with a Formula-style electric race car every year"
     subtext: 
     section: team
     people:
