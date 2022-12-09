@@ -171,7 +171,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Our team of engineers design, build, and compete with a formula style electric race car every year"
+    text: "Our team of engineers design, build, and compete with a formula-style electric race car every year"
     subtext: 
     section: team
     people:
@@ -295,7 +295,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/darnottolin/
             icon: fab fa-linkedin-in
       
-      - name: "Dasha Chaduik"
+      - name: "Dasha Chadiuk"
         role: "Senior Electrical Engineer"
         image: assets/img/team/Dasha.jpg
         social:
@@ -434,7 +434,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/markusleschly/
             icon: fab fa-linkedin-in
       
-      - name: "Meagan Lispman"
+      - name: "Meagan Lipsman"
         role: "Electrical Engineer"
         image: assets/img/team/Meagan.jpg
 
