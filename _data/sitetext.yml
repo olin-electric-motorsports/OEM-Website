@@ -175,6 +175,13 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
+      - name: "Adi Sudhakar"
+        role: "Senior Mechanical Engineer"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/adisudhakar/
+            icon: fab fa-linkedin-in
+
       - name: "Aditi Vinod"
         role: "Suspension Subteam Lead"
         image: assets/img/team/Aditi.jpg
@@ -182,48 +189,56 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/aditivinod/
             icon: fab fa-linkedin-in
       - name: "AJ Chau"
-        role: "Marketing Member"
+        role: "Electrical Engineer"
         image: assets/img/team/AJ.jpg
         social:
+
       - name: "Akshat Jain"
         role: "Electrical Engineer"
         image: assets/img/team/Akshat.jpg
         social:
           - url: https://www.linkedin.com/in/akshatjainolin/
             icon: fab fa-linkedin-in
+      
       - name: "Alex George"
         role: "Mechanical Engineer"
         image: assets/img/team/Alex.jpg
+      
       - name: "Amanda Chang"
         role: Electrical Engineer
         image: assets/img/team/Amanda.jpg
         social:
           - url: https://www.linkedin.com/in/amanda-l-chang/
             icon: fab fa-linkedin-in
+      
       - name: "Amit Kumar"
         role: "Low Voltage Systems Lead"
         image: assets/img/team/Amit.jpg
         social:
           - url: https://www.linkedin.com/in/amit-kumarh/
             icon: fab fa-linkedin-in
+      
       - name: "Andrew Phillips"
         role: "Accumulator Lead"
         image: assets/img/team/Andrew.jpg
         social:
           - url: https://www.linkedin.com/in/andrew-d-phillips/
             icon: fab fa-linkedin-in
+      
       - name: "Angela Huang"
         role: "Mechanical Engineer"
         image: assets/img/team/Angela.jpg
         social:
           - url: https://www.linkedin.com/in/angelahuang-olin/
             icon: fab fa-linkedin-in
+        
       - name: "Anusha Karandikar"
         role: "Mechanical Engineer"
         image: assets/img/team/Anusha.jpg
         social:
           - url: https://www.linkedin.com/in/anusha-karandikar/
             icon: fab fa-linkedin-in
+
       - name: "Avery Clowes"
         role: "Mechanical Engineer"
         image: assets/img/team/Avery.jpg
@@ -309,6 +324,13 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/senexvr/
             icon: fab fa-linkedin-in
+      
+      - name: "Ian Lum"
+        role: "Electrical Engineer"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/ianlum/
+            icon: fab fa-linkedin-in
 
       - name: "Ishaan Oberoi"
         role: "Project Manager"
@@ -320,6 +342,13 @@ en: &DEFAULT_EN
       - name: "Izzie Abilheira"
         role: "Senior Electrical Engineer"
         image: assets/img/team/Izzie.jpg
+
+      - name: "Jack Greenberg"
+        role: "Financial Manager"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/jack-l-greenberg/
+            icon: fab fa-linkedin-in
 
       - name: "Jacob Prisament"
         role: "Mechanical Engineer"
@@ -335,6 +364,13 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/jhlee6/
             icon: fab fa-linkedin-in
       
+      - name: "Jazmine Chua"
+        role: "Marketing Member"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/jazmine-chua/
+            icon: fab fa-linkedin-in
+
       - name: "Julian Montes"
         role: "Mechanical Engineer"
         image: assets/img/team/Julian.jpg
@@ -347,6 +383,20 @@ en: &DEFAULT_EN
         image: assets/img/team/Jun.jpg
         social:
           - url: https://www.linkedin.com/in/chang-jun-park-96a4661a7/
+            icon: fab fa-linkedin-in
+
+      - name: "Jen Sunstrom"
+        role: "Marketing Member"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/jen-sundstrom-a80b7b1b7/
+            icon: fab fa-linkedin-in
+
+      - name: "Karen Hinh"
+        role: "Senior Mechanical Engineer"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/karen-hinh/
             icon: fab fa-linkedin-in
 
       - name: "Laurel Rodriguez Mitton"
@@ -362,19 +412,28 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ldao/
             icon: fab fa-linkedin-in
+
       - name: "Luke Witten"
         role: "Drivetrain Lead Engineer"
         image: assets/img/team/Luke.jpg
         social:
           - url: https://www.linkedin.com/in/luke-witten-396865233/
             icon: fab fa-linkedin-in
+
       - name: "Madie Tong"
         role: "Electrical Engineer"
         image: assets/img/team/Madie.jpg
         social:
           - url: https://www.linkedin.com/in/madisontong/
             icon: fab fa-linkedin-in
-
+      
+      - name: "Markus Leschly"
+        role: "Senior Mechanical Engineer"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/markusleschly/
+            icon: fab fa-linkedin-in
+      
       - name: "Meagan Lispman"
         role: "Electrical Engineer"
         image: assets/img/team/Meagan.jpg
@@ -401,6 +460,10 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/owen-dray/
             icon: fab fa-linkedin-in
 
+      - name: "Owen Johnston"
+        role: "Electrical Engineer"
+        image: assets/img/team-photos/mk5square.jpg
+
       - name: "Owen Himsworth"
         role: "Mechanical Engineer"
         image: assets/img/team/Owen H.jpg
@@ -419,7 +482,11 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/rjansens123/
             icon: fab fa-linkedin-in
 
-      - name: "Shamama Siroon"
+      - name: "Sela Domkofski"
+        role: "Marketing Member"
+        image: assets/img/team-photos/mk5square.jpg
+
+      - name: "Shamama Sirroon"
         role: "Sensing Engineer"
         image: assets/img/team/Shamama.jpg
         social:
