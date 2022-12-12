@@ -288,7 +288,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/conan-mcgannon/
             icon: fab fa-linkedin-in
 
-      - name: "Daniel Arnot"
+      - name: "Daniel Arnott"
         role: "Senior Mechanical Engineer"
         image: assets/img/team/Daniel.jpg
         social:
