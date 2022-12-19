@@ -354,6 +354,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/jhlee6/
             icon: fab fa-linkedin-in
+          - url: https://jongholee.co/
+            icon: fas fa-book
 
       - name: "Jun Park"
         role: "Electrical Engineer"
