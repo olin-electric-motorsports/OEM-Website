@@ -23,7 +23,7 @@ en: &DEFAULT_EN
       section: history
     - title: "Contact"
       section: contact
-    #- title: "Our team"
-    #  url: our-team
+    - title: "Our team"
+      url: our-team
 en-US:
   <<: *DEFAULT_EN

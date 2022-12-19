@@ -175,12 +175,6 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "Adi Sudhakar"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/adisudhakar/
-            icon: fab fa-linkedin-in
 
       - name: "Aditi Vinod"
         role: "Suspension Subteam Lead"
@@ -188,11 +182,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/aditivinod/
             icon: fab fa-linkedin-in
+          - url: https://aditivinod.com
+            icon: fas fa-book
       - name: "AJ Chau"
         role: "Electrical Engineer"
         image: assets/img/team/AJ.jpg
         social:
-
+          - url: https://www.linkedin.com/in/annette-chau-784361141
+            icon: fab fa-linkedin-in
       - name: "Akshat Jain"
         role: "Electrical Engineer"
         image: assets/img/team/Akshat.jpg
@@ -238,6 +235,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/anusha-karandikar/
             icon: fab fa-linkedin-in
+          - url: https://akarandikar.com
+            icon: fas fa-book
 
       - name: "Avery Clowes"
         role: "Mechanical Engineer"
@@ -252,20 +251,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ayushchakraborty/
             icon: fab fa-linkedin-in
-
-      - name: "Ben Tarr"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Ben.jpg
-        social:
-          - url: https://www.linkedin.com/in/ben-tarr/
-            icon: fab fa-linkedin-in
-
-      - name: "Brent Usui"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team/Brent.jpg
-        social:
-          - url: https://www.linkedin.com/in/brentusui/
-            icon: fab fa-linkedin-in
+          - url: https://ayushchakra.github.io/
+            icon: fas fa-book
       
       - name: "Cara Mulrooney"
         role: "Sensing Engineer"
@@ -280,6 +267,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/colintakeda/
             icon: fab fa-linkedin-in
+          - url: https://colintakeda.com/
+            icon: fas fa-book
 
       - name: "Conan McGannon"
         role: "Mechanical Engineer"
@@ -302,14 +291,12 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/dasha-chadiuk/
             icon: fab fa-linkedin-in
 
-      - name: "Drew Pang"
-        role: "Electrical Engineer"
-        image: assets/img/team/Drew.jpg
-        social:
-
       - name: "Ellen Sun"
         role: "Electrical Engineer"
         image: assets/img/team/Ellen.jpg
+        social:
+          - url: https://www.linkedin.com/in/ellen-sun/
+            icon: fab fa-linkedin-in
 
       - name: "Elvis Wolcott"
         role: "Electrical Systems Lead"
@@ -318,19 +305,16 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/elviswolcott/
             icon: fab fa-linkedin-in
       
-      - name: "Ian Walsh"
-        role: "Electrical Engineer"
-        image: assets/img/team/Ian W.jpg
-        social:
-          - url: https://www.linkedin.com/in/senexvr/
-            icon: fab fa-linkedin-in
-      
       - name: "Ian Lum"
         role: "Electrical Engineer"
         image: assets/img/team-photos/mk5square.jpg
         social:
           - url: https://www.linkedin.com/in/ianlum/
             icon: fab fa-linkedin-in
+      
+      - name: "Isabella Abilheira"
+        role: "Senior Electrical Engineer"
+        image: assets/img/team/Izzie.jpg
 
       - name: "Ishaan Oberoi"
         role: "Project Manager"
@@ -338,10 +322,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/ishaan-oberoi/
             icon: fab fa-linkedin-in
-      
-      - name: "Izzie Abilheira"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/Izzie.jpg
+          - url: http://ioberoi.com
+            icon: fas fa-book
 
       - name: "Jack Greenberg"
         role: "Financial Manager"
@@ -349,12 +331,21 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/jack-l-greenberg/
             icon: fab fa-linkedin-in
+          - url: https://portfolio.jackgreenberg.co
+            icon: fas fa-book
 
       - name: "Jacob Prisament"
         role: "Mechanical Engineer"
         image: assets/img/team/Jacob.jpg
         social:
           - url: https://www.linkedin.com/in/jacobprisament/
+            icon: fab fa-linkedin-in
+      
+      - name: "Jen Sunstrom"
+        role: "Marketing Member"
+        image: assets/img/team-photos/mk5square.jpg
+        social:
+          - url: https://www.linkedin.com/in/jen-sundstrom-a80b7b1b7/
             icon: fab fa-linkedin-in
 
       - name: "Jong Ho Lee"
@@ -363,35 +354,14 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/jhlee6/
             icon: fab fa-linkedin-in
-      
-      - name: "Jazmine Chua"
-        role: "Marketing Member"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/jazmine-chua/
-            icon: fab fa-linkedin-in
 
-      - name: "Julian Montes"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Julian.jpg
-        social:
-          - url: https://www.linkedin.com/in/julian-montes-100/
-            icon: fab fa-linkedin-in
-            
       - name: "Jun Park"
         role: "Electrical Engineer"
         image: assets/img/team/Jun.jpg
         social:
           - url: https://www.linkedin.com/in/chang-jun-park-96a4661a7/
             icon: fab fa-linkedin-in
-
-      - name: "Jen Sunstrom"
-        role: "Marketing Member"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/jen-sundstrom-a80b7b1b7/
-            icon: fab fa-linkedin-in
-
+            
       - name: "Karen Hinh"
         role: "Senior Mechanical Engineer"
         image: assets/img/team-photos/mk5square.jpg
@@ -419,13 +389,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/luke-witten-396865233/
             icon: fab fa-linkedin-in
-
-      - name: "Madie Tong"
-        role: "Electrical Engineer"
-        image: assets/img/team/Madie.jpg
-        social:
-          - url: https://www.linkedin.com/in/madisontong/
-            icon: fab fa-linkedin-in
       
       - name: "Markus Leschly"
         role: "Senior Mechanical Engineer"
@@ -433,10 +396,20 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/markusleschly/
             icon: fab fa-linkedin-in
-      
+
+      - name: "Maurice Ampane"
+        role: "Mechanical Engineer"
+        image: assets/img/team/Mo.jpg   
+        social:
+          - url: https://www.linkedin.com/in/maurice-ampane-54156b250
+            icon: fab fa-linkedin-in
+
       - name: "Meagan Lipsman"
         role: "Electrical Engineer"
         image: assets/img/team/Meagan.jpg
+        social:
+          - url: https://www.linkedin.com/in/meagan-lipsman
+            icon: fab fa-linkedin-in
 
       - name: "Melissa Kazazic"
         role: "High Voltage Lead Engineer"
@@ -449,24 +422,14 @@ en: &DEFAULT_EN
         role: "Electrical Engineer"
         image: assets/img/team/Miranda.jpg
 
-      - name: "Mo Ampane"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Mo.jpg
-
       - name: "Owen Dray"
         role: "Senior Mechanical Engineer"
         image: assets/img/team/Owen D.jpg
         social:
           - url: https://www.linkedin.com/in/owen-dray/
             icon: fab fa-linkedin-in
-
-      - name: "Owen Johnston"
-        role: "Electrical Engineer"
-        image: assets/img/team-photos/mk5square.jpg
-
-      - name: "Owen Himsworth"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Owen H.jpg
+          - url: https://owendray.com
+            icon: fas fa-book
 
       - name: "Richard Li"
         role: "Sensing Lead Engineer"
@@ -482,33 +445,11 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/rjansens123/
             icon: fab fa-linkedin-in
 
-      - name: "Sela Domkofski"
-        role: "Marketing Member"
-        image: assets/img/team-photos/mk5square.jpg
-
       - name: "Shamama Sirroon"
         role: "Sensing Engineer"
         image: assets/img/team/Shamama.jpg
         social:
           - url: https://www.linkedin.com/in/shamama-sirroon/
-            icon: fab fa-linkedin-in
-
-      - name: "Solomiia Kachur"
-        role: "Electrical Engineer"
-        image: assets/img/team/Solomiia.jpg
-
-      - name: "Sree Chalimadugu"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/Sree.jpg
-        social:
-          - url: https://www.linkedin.com/in/sreenidhi-chalimadugu/
-            icon: fab fa-linkedin-in
-
-      - name: "Swasti Jain"
-        role: "Electrical Engineer"
-        image: assets/img/team/Swasti.jpg
-        social:
-          - url: https://www.linkedin.com/in/jainswasti/
             icon: fab fa-linkedin-in
 
       - name: "Sydney Chung"
@@ -517,13 +458,8 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/sydney-chung-b08569195/
             icon: fab fa-linkedin-in
-
-      - name: "Tabitha Davidson"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Tabitha.jpg
-        social:
-          - url: https://www.linkedin.com/in/tabitha-davison-b2205b24b/
-            icon: fab fa-linkedin-in
+          - url: https://sydneysc4.wixsite.com/sydney-chung
+            icon: fas fa-book
 
       - name: "Tara Lee"
         role: "Cockpit Lead Engineer"
@@ -563,6 +499,9 @@ en: &DEFAULT_EN
       - name: "Xander Hughes"
         role: "Senior Mechanical Engineer"
         image: assets/img/team/Xander.jpg
+        social:
+          - url: https://xanderh.me
+            icon: fas fa-book
       
   aboutSponsors:
     title: "Our Sponsors"
