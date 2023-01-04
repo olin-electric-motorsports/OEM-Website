@@ -253,6 +253,12 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://ayushchakra.github.io/
             icon: fas fa-book
+      - name: "Ben Tarr"
+        role: "Mechanical Engineer"
+        image: assets/img/team/Ben.jpg
+        social:
+          - url: https://www.linkedin.com/in/ben-tarr/
+            icon: fab fa-linkedin-in
       
       - name: "Cara Mulrooney"
         role: "Sensing Engineer"
@@ -310,6 +316,13 @@ en: &DEFAULT_EN
         image: assets/img/team-photos/mk5square.jpg
         social:
           - url: https://www.linkedin.com/in/ianlum/
+            icon: fab fa-linkedin-in
+
+      - name: "Ian Walsh"
+        role: "Electrical Engineer"
+        image: assets/img/team/Ian W.jpg
+        social:
+          - url: https://www.linkedin.com/in/senexvr
             icon: fab fa-linkedin-in
       
       - name: "Isabella Abilheira"
@@ -432,6 +445,11 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: https://owendray.com
             icon: fas fa-book
+      
+      - name: "Owen Himsworth"
+        role: "Mechanical Engineer"
+        image: assets/img/team/Owen H.jpg
+        
 
       - name: "Richard Li"
         role: "Sensing Lead Engineer"
@@ -452,6 +470,13 @@ en: &DEFAULT_EN
         image: assets/img/team/Shamama.jpg
         social:
           - url: https://www.linkedin.com/in/shamama-sirroon/
+            icon: fab fa-linkedin-in
+
+      - name: "Sreenidhi Chalimadugu"
+        role: "Senior Electrical Engineer"
+        image: assets/img/team/Sree.jpg
+        social:
+          - url: https://www.linkedin.com/in/sreenidhi-chalimadugu
             icon: fab fa-linkedin-in
 
       - name: "Sydney Chung"
