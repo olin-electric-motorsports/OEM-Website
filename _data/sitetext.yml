@@ -472,6 +472,10 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/shamama-sirroon/
             icon: fab fa-linkedin-in
 
+      - name: "Solomiia Kachur"
+        role: "Electrical Engineer"
+        image: assets/img/team/Solomiia.jpg
+
       - name: "Sreenidhi Chalimadugu"
         role: "Senior Electrical Engineer"
         image: assets/img/team/Sree.jpg
