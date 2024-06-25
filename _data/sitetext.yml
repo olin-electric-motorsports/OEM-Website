@@ -221,7 +221,7 @@ en: &DEFAULT_EN
       - name: "Alex Mineeva"
         role: "Suspension Engineer"
         image: assets/img/team/AlexM.jpg
-        social:
+        #social:
         #TODO:  - url:
           #icon: fab fa-linkedin-in
 
@@ -487,6 +487,7 @@ en: &DEFAULT_EN
       - name: "Maddy Fahey"
         role: "Low-Voltage Engineer"
         image: assets/img/team/Maddy.jpg
+        social:
           - url: linkedin.com/in/mnfahey
             icon: fab fa-linked-in
       
