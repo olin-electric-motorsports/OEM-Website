@@ -684,7 +684,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Wynona.jpg
         social:
           - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
-          icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-in
       
   aboutSponsors:
     title: "Our Sponsors"
