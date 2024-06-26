@@ -271,7 +271,7 @@ en: &DEFAULT_EN
         
       - name: "Anthony Cheung"
         role: "Accumulator Engineer"
-        image: assets/img/team/Anthony.jpg
+        image: assets/img/team/Anthony2.jpg
         social:
           - url: https://www.linkedin.com/in/acheung09
             icon: fab fa-linkedin-in
@@ -335,7 +335,7 @@ en: &DEFAULT_EN
       
       - name: "Katherine Danielon"
         role: "Integration Engineer"
-        image: assets/img/team/Katherine.jpg
+        image: assets/img/team/Katherine3.jpg
         social:
           - url: https://www.linkedin.com/in/katherine-danielson
             icon: fab fa-linkedin-in
@@ -356,7 +356,7 @@ en: &DEFAULT_EN
       
       - name: "Darian Jimenez"
         role: "Integration Engineer"
-        image: assets/img/team/Darian.jpg
+        image: assets/img/team/Darian2.jpg
         social:
           - url: https://www.linkedin.com/in/darian-jimenez/
             icon: fab fa-linkedin-in
@@ -672,7 +672,7 @@ en: &DEFAULT_EN
       
       - name: "Vivian Mak"
         role: "Accumulator Engineer"
-        image: assets/img/team/Vivian.jpg
+        image: assets/img/team/Vivian2.jpg
         social:
           - url: https://www.linkedin.com/in/vivianzmak
             icon: fab fa-linkedin-in
@@ -684,7 +684,7 @@ en: &DEFAULT_EN
         image: assets/img/team/Wynona.jpg
         social:
           - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
-          icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-in
       
   aboutSponsors:
     title: "Our Sponsors"
