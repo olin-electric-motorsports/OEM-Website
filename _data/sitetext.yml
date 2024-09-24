@@ -215,13 +215,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/aiden-bulow-541b53229/
             icon: fab fa-linkedin-in
-
-      - name: "Akshat Jain"
-        role: "Electrical Engineer"
-        image: assets/img/team/Akshat.jpg
-        social:
-          - url: https://www.linkedin.com/in/akshatjainolin/
-            icon: fab fa-linkedin-in
       
       - name: "Alex Mineeva"
         role: "Cockpit Lead"
