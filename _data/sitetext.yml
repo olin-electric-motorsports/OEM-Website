@@ -157,7 +157,7 @@ en: &DEFAULT_EN
       - title: "MKVI Competition"
         year: "2024"
         desc: "Mk VI was our fifth fully electric vehicle; it successfully passed all technical inspections before encountering a BSPD fault during the fifth lap of Endurance. 
-        This is the team's first time having a car in Endurance since Mk VII."
+        This is the team's first time having a car in Endurance since Mk II."
         image: assets/img/team-photos/mk6square.jpg
 
   contact:
@@ -214,13 +214,6 @@ en: &DEFAULT_EN
         image: assets/img/team/AJB.jpg
         social:
           - url: https://www.linkedin.com/in/aiden-bulow-541b53229/
-            icon: fab fa-linkedin-in
-
-      - name: "Akshat Jain"
-        role: "Electrical Engineer"
-        image: assets/img/team/Akshat.jpg
-        social:
-          - url: https://www.linkedin.com/in/akshatjainolin/
             icon: fab fa-linkedin-in
       
       - name: "Alex Mineeva"
