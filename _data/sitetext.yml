@@ -24,7 +24,7 @@ en: &DEFAULT_EN
           in-depth mechanical, electrical, computer, and systems engineering. By working 
           together to compete each season, members develop their technical knowledge as
           well as communication and leadership skills essential for success as a professional
-          engineer.<br><br><img src="assets/img/team-photos/oem-team-photo-fall-2021.png" width=100%>
+          engineer.<br><br><img src="assets/img/team-photos/oem-team-photo-spring-2024.png" width=100%>
     section: about
 
   sponsorship:
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
           and features in team marketing. Find more details in our sponsorship package below. If you have any questions, use the 
           [Contact Form](#contact) to reach out to us!<br><br>
           "
-    packageLink: "https://drive.google.com/file/d/13ksz3DYD98uQj7GiYQqoRdNxHjqXNNhR/preview"
+    packageLink: "https://drive.google.com/file/d/1zT0xJWMTv01sWCaUif68tjTziuSmSAsO/preview"
 
   competition:
     title: "Competition Events"
@@ -147,13 +147,18 @@ en: &DEFAULT_EN
         desc: "At virtual competition due to COVID-19, we participated in the Design event, placing 1st in our division at Formula SAE Virtual"
         image: assets/img/team-photos/MkVRender.png
         alt:
-      - title: "MKV Completion"
+      - title: "MKV Competition"
         year: "2022"
         desc: "After returning to in-person school, the team completed Mk V Andromeda and brought the car to competition, where we placed 30th in 
         the Electric Vehicle class at Formula SAE Michigan. Most of our team hadn't experienced a full design cycle and only a few had been to 
         competition, making Andromeda's completion a milestone for the team."
         image: assets/img/team-photos/mk5square.jpg
         alt:
+      - title: "MKVI Competition"
+        year: "2024"
+        desc: "Mk VI was our fifth fully electric vehicle; it successfully passed all technical inspections before encountering a BSPD fault during the fifth lap of Endurance. 
+        This is the team's first time having a car in Endurance since Mk VII."
+        image: assets/img/team-photos/mk6square.jpg
 
   contact:
     title: "Contact Us"
@@ -175,9 +180,16 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
+      - name: "Abigail Paulding"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Addison Fischer"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Aditi Vinod"
-        role: "Financial Manager"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Aditi.jpg
         social:
           - url: https://www.linkedin.com/in/aditivinod/
@@ -186,21 +198,22 @@ en: &DEFAULT_EN
             icon: fas fa-book
 
       - name: "Agatha Ford"
-        role: "Battery Management System Engineer"
+        role: "Battery Management System"
         image: assets/img/team/Agatha.jpg
   
+      - name: "Ahan Trivedi"
+        role: "High Voltage"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Aidan Schnieder"
+        role: "Sensing"
+        image: assets/img/team-photos/mk6square.jpg
+
       - name: "AJ Bulow"
-        role: Suspension & Chassis Engineer
+        role: Suspension & Chassis Lead
         image: assets/img/team/AJB.jpg
         social:
           - url: https://www.linkedin.com/in/aiden-bulow-541b53229/
-            icon: fab fa-linkedin-in
-
-      - name: "AJ Chau"
-        role: "Electrical Engineer"
-        image: assets/img/team/AJ.jpg
-        social:
-          - url: https://www.linkedin.com/in/annette-chau-784361141
             icon: fab fa-linkedin-in
 
       - name: "Akshat Jain"
@@ -210,296 +223,220 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/akshatjainolin/
             icon: fab fa-linkedin-in
       
-      - name: "Alex George"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Alex.jpg
-        social:
-          - url: https://www.linkedin.com/in/alexmgeorge1
-            icon: fab fa-linkedin-in
-
-      #FINISH THIS PROFILE
       - name: "Alex Mineeva"
-        role: "Suspension Engineer"
+        role: "Cockpit Lead"
         image: assets/img/team/AlexM.jpg
-        #social:
-        #TODO:  - url:
-          #icon: fab fa-linkedin-in
 
-      - name: Alexander Qazilbash
-        role: "Accumulator Engineer"
+      - name: "Alexander Qazilbash"
+        role: "Accumulator"
         image: assets/img/team/Alexander2.jpg
         social:
           - url: https://www.linkedin.com/in/alexander-qazilbash-7440182a2/
             icon: fab fa-linkedin-in
 
-      - name: "Amanda Chang"
-        role: "Low Voltage Lead"
-        image: assets/img/team/Amanda2.jpg
-        social:
-          - url: https://www.linkedin.com/in/amanda-l-chang/
-            icon: fab fa-linkedin-in
+      - name: "Alyssa Aranda"
+        role: "Accumulator"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Amber Fang"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
       
       - name: "Amir Osorio"
-        role: "Drivetrain Engineer"
+        role: "Drivetrain"
         image: assets/img/team/Amir.jpg
         social:
           - url: https://www.linkedin.com/in/amir-osorio-aaa872256/
             icon: fab fa-linkedin-in
 
       - name: "Amit Kumar"
-        role: "Senior Electrical & Firmware Engineer"
+        role: "Senior Electrical Engineer"
         image: assets/img/team/Amit.jpg
         social:
           - url: https://www.linkedin.com/in/amit-kumarh/
             icon: fab fa-linkedin-in
+
+      - name: "Anagha Babu"
+        role: "Cockpit"
+        image: assets/img/team-photos/mk6square.jpg
       
-      - name: "Andrew Phillips"
-        role: "Senior Accumulator Engineer"
-        image: assets/img/team/Andrew.jpg
-        social:
-          - url: https://www.linkedin.com/in/andrew-d-phillips/
-            icon: fab fa-linkedin-in
-          - url: https://andrew-phillips.com/
-            icon: fas fa-book
-      
+      - name: "Ananth Kutuva"
+        role: "Drivetrain"
+        image: assets/img/team-photos/mk6square.jpg
+
       - name: "Angela Huang"
-        role: "Suspension and Chassis Lead"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Angela4.jpg
         social:
           - url: https://www.linkedin.com/in/angelahuang-olin/
             icon: fab fa-linkedin-in
         
       - name: "Anthony Cheung"
-        role: "Accumulator Engineer"
+        role: "Drivetrain Lead"
         image: assets/img/team/Anthony2.jpg
         social:
           - url: https://www.linkedin.com/in/acheung09
             icon: fab fa-linkedin-in
-        
-      - name: "Anusha Karandikar"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Anusha.jpg
-        social:
-          - url: https://www.linkedin.com/in/anusha-karandikar/
-            icon: fab fa-linkedin-in
-          - url: https://akarandikar.com
-            icon: fas fa-book
 
       - name: "Ashley Yang"
-        role: "Low Voltage Engineer"
+        role: "Low Voltage Lead"
         image: assets/img/team/Ashley.jpg
         social:
           - url: linkedin.com/in/ashley-yang32
             icon: fab fa-linkedin-in
 
-      - name: "Avery Clowes"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Avery.jpg
-        social:
-          - url: https://www.linkedin.com/in/avery-clowes/
-            icon: fab fa-linkedin-in
-
       - name: "Ayush Chakraborty"
-        role: "Vehicle Infrastructure and Optimization Lead"
+        role: "Senior Electrical Engineer"
         image: assets/img/team/Ayush.jpg
         social:
           - url: https://www.linkedin.com/in/ayushchakraborty/
             icon: fab fa-linkedin-in
           - url: https://ayushchakra.github.io/
             icon: fas fa-book
-          
+      
+      - name: "Ben Ricket"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
+
       - name: "Ben Tarr"
         role: "Mechanical Lead"
         image: assets/img/team/Ben.jpg
         social:
           - url: https://www.linkedin.com/in/ben-tarr/
             icon: fab fa-linkedin-in
-      
-      - name: "Cara Mulrooney"
-        role: "Sensing Engineer"
-        image: assets/img/team/Cara.jpg
-        social:
-          - url: https://www.linkedin.com/in/caramulrooney/
-            icon: fab fa-linkedin-in
+
+      - name: "Brandon Spiller"
+        role: "Integration"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Christopher Nie"
-        role: "Suspension Engineer"
+        role: "Suspension"
         image: assets/img/team/Chris.jpg
         social:
           - url: https://www.linkedin.com/in/cnie/
-            icon: fab fa-linkedin-in
-
-      - name: "Christopher Vidaurrazaga"
-        role: "Cockpit Engineer"
-        image: assets/img/team/Christopher.jpg
-      
-      - name: "Katherine Danielon"
-        role: "Integration Engineer"
-        image: assets/img/team/Katherine3.jpg
-        social:
-          - url: https://www.linkedin.com/in/katherine-danielson
-            icon: fab fa-linkedin-in
-      
-      - name: "Conan McGannon"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Conan.jpg
-        social:
-          - url: https://www.linkedin.com/in/conan-mcgannon/
-            icon: fab fa-linkedin-in
-
-      - name: "Daniel Arnott"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team/Daniel.jpg
-        social:
-          - url: https://www.linkedin.com/in/darnottolin/
-            icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-in     
       
       - name: "Darian Jimenez"
-        role: "Integration Engineer"
+        role: "Integration Lead"
         image: assets/img/team/Darian2.jpg
         social:
           - url: https://www.linkedin.com/in/darian-jimenez/
             icon: fab fa-linkedin-in
 
-      - name: "Dasha Chadiuk"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/Dasha.jpg
-        social:
-          - url: https://www.linkedin.com/in/dasha-chadiuk/
-            icon: fab fa-linkedin-in
+      - name: "David Bardalez"
+        role: "Cockpit"
+        image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Ellen Sun"
-        role: "Electrical Engineer"
-        image: assets/img/team/Ellen.jpg
-        social:
-          - url: https://www.linkedin.com/in/ellen-sun/
-            icon: fab fa-linkedin-in
-
-      - name: "Elvis Wolcott"
-        role: "Electrical Systems Lead"
-        image: assets/img/team/Elvis.jpg
-        social:
-          - url: https://www.linkedin.com/in/elviswolcott/
-            icon: fab fa-linkedin-in
+      - name: "Dexter Friis-Hecht"
+        role: "Sensing"
+        image: assets/img/team-photos/mk6square.jpg
       
-      - name: "Gia-Uyen Tran"
-        role: "Battery Management System Engineer"
-        image: assets/img/team/Gia-Uyen.jpg
+      - name: "Drew Pang"
+        role: "Senior Electrical Engineer"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Fernando Song"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Fiona McSherry"
+        role: "High Voltage Lead"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Grant Rechtin"
+        role: "Sensing"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Henry Tejada Deras"
+        role: "Low Voltage"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Ian Walsh"
-        role: "Electrical Engineer"
+        role: "Electrical Lead"
         image: assets/img/team/Ian W.jpg
         social:
           - url: https://www.linkedin.com/in/senexvr
             icon: fab fa-linkedin-in
-      
-      - name: "Isabella Abilheira"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/Izzie.jpg
 
-      - name: "Ishaan Oberoi"
-        role: "Drivetrain Senior Engineer"
-        image: assets/img/team/Ishaan.jpg
-        social:
-          - url: https://www.linkedin.com/in/ishaan-oberoi/
-            icon: fab fa-linkedin-in
-          - url: http://ioberoi.com
-            icon: fas fa-book
+      - name: "Ishan Patel"
+        role: "Marketing Lead"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Ishan Porwal"
-        role: "Low Voltage Engineer"
+        role: "Sensing Lead"
         image: assets/img/team/IshanP.jpg
 
-      - name: "Jack Greenberg"
-        role: "Financial Manager"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/jack-l-greenberg/
-            icon: fab fa-linkedin-in
-          - url: https://portfolio.jackgreenberg.co
-            icon: fas fa-book
+      - name: "Jacob Keller"
+        role: "Integration"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Jacob Prisament"
-        role: "Mechanical Engineer"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Jacob.jpg
         social:
           - url: https://www.linkedin.com/in/jacobprisament/
             icon: fab fa-linkedin-in
-      
-      - name: "Jen Sunstrom"
-        role: "Marketing Member"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/jen-sundstrom-a80b7b1b7/
-            icon: fab fa-linkedin-in
 
-      - name: "Jong Ho Lee"
-        role: "Mechanical Systems Lead"
-        image: assets/img/team/Jong Ho.jpg
-        social:
-          - url: https://www.linkedin.com/in/jhlee6/
-            icon: fab fa-linkedin-in
-          - url: https://jongholee.co/
-            icon: fas fa-book
+      - name: "Jake Hamilton"
+        role: "Battery Management System"
+        image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Jun Park"
-        role: "Electrical Engineer"
-        image: assets/img/team/Jun.jpg
-        social:
-          - url: https://www.linkedin.com/in/chang-jun-park-96a4661a7/
-            icon: fab fa-linkedin-in
-            
-      - name: "Karen Hinh"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/karen-hinh/
-            icon: fab fa-linkedin-in
+      - name: "Jonathan Sun"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Laurel Rodriguez Mitton"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team/Laurel.jpg
-        social:
-          - url: https://www.linkedin.com/in/laurelrmitton/
-            icon: fab fa-linkedin-in
+      - name: "Joseph Vazhaeparambil"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Lily Dao"
-        role: "Mechanical Engineer"
-        image: assets/img/team/Lily.jpg
-        social:
-          - url: https://www.linkedin.com/in/ldao/
-            icon: fab fa-linkedin-in
+      - name: "Joshua Espinoza Diaz"
+        role: "Battery Management System"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Julian Shah"
+        role: "Financials"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Kai-Xing Yue"
+        role: "Accumulator"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Kefan Wu"
+        role: "Drivetrain"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Kuhu Jayaswal"
+        role: "Low Voltage"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Liam Fries"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Lucien Lin"
-        role: "Drivetrain Engineer"
+        role: "Drivetrain"
         image: assets/img/team/Lucien.jpg
         social:
           - url: https://www.linkedin.com/in/lucienlin
             icon: fab fa-linkedin-in
       
       - name: "Luke Witten"
-        role: "Drivetrain Lead Engineer"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Luke.jpg
         social:
           - url: https://www.linkedin.com/in/luke-witten-396865233/
             icon: fab fa-linkedin-in
       
-      - name: "Maddy Fahey"
-        role: "Low-Voltage Engineer"
-        image: assets/img/team/Maddy.jpg
-        social:
-          - url: linkedin.com/in/mnfahey
-            icon: fab fa-linked-in
-      
-      - name: "Markus Leschly"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team-photos/mk5square.jpg
-        social:
-          - url: https://www.linkedin.com/in/markusleschly/
-            icon: fab fa-linkedin-in
+      - name: "Maddie Connelly"
+        role: "Cockpit"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Matthew Kwon"
+        role: "Accumulator"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Maurice Ampane"
-        role: "Accumulator Lead"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Mo.jpg   
         social:
           - url: https://www.linkedin.com/in/mampane/
@@ -508,76 +445,48 @@ en: &DEFAULT_EN
             icon: fas fa-book
 
       - name: "Meagan Lipsman"
-        role: "Integration Lead"
+        role: "Project Manager"
         image: assets/img/team/Meagan2.jpg
         social:
           - url: https://www.linkedin.com/in/meagan-lipsman
             icon: fab fa-linkedin-in
 
-      - name: "Melissa Kazazic"
-        role: "Project Manager"
-        image: assets/img/team/Melissa.jpg
-        social:
-          - url: https://www.linkedin.com/in/melissa-kazazic/
-            icon: fab fa-linkedin-in
+      - name: "Mehmet Firat"
+        role: "Cockpit"
+        image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Miranda Pietraski"
-        role: "High Voltage Senior Engineer"
-        image: assets/img/team/Miranda.jpg
-        social:
-          - url: https://www.linkedin.com/in/miranda-pietraski-b984302a6/
-            icon: fab fa-linkedin-in
-      
-      - name: "Natsuki Sacks"
-        role: "Battery Management System Engineer"
-        image: assets/img/team/Natsuki.jpg
-        social:
-          - url: https://www.linkedin.com/in/natsuki-sacks-434a5619b/
-            icon: fab fa-linkedin-in
+      - name: "Nathaniel Banse"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Navya Tiwari"
+        role: "High Voltage"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Nick Cunha"
-        role: "Accumulator Engineer"
+        role: "Accumulator"
         image: assets/img/team/Nick.jpg
         social:
           - url: "https://www.linkedin.com/in/nicholas-cunha-13169427a/"
             icon: fab fa-linkedin-in
 
       - name: "Olivia Josephine Smith"
-        role: "Drivetrain Engineer"
+        role: "Drivetrain"
         image: assets/img/team/Olivia.jpg
         social:
           - url: "https://www.linkedin.com/in/olivia-smith-6932ab294/"
             icon: fab fa-linkedin-in
 
       - name: "Oscar Bao"
-        role: "Integration Engineer"
+        role: "Integration"
         image: assets/img/team/Oscar.jpg
       
-      - name: "Owen Dray"
-        role: "Senior Mechanical Engineer"
-        image: assets/img/team/Owen D.jpg
-        social:
-          - url: https://www.linkedin.com/in/owen-dray/
-            icon: fab fa-linkedin-in
-          - url: https://owendray.com
-            icon: fas fa-book
-      
-      - name: "Owen Johnston"
-        role: "High Voltage Engineer"
-        image: assets/img/team/Owen J.jpg
-        social:
-          - url: https://www.linkedin.com/in/owen-johnston-b56575271/
-            icon: fab fa-linkedin-in
-
-      - name: "Richard Li"
-        role: "Sensing Lead Engineer"
-        image: assets/img/team/Richard.jpg
-        social:
-          - url: https://www.linkedin.com/in/richardli03/
-            icon: fab fa-linkedin-in
+      - name: "Ria Deshpande"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Rishit Bansal"
-        role: "Battery Management System Engineer"
+        role: "Battery Management System Lead"
         image: assets/img/team/Rishit.jpg
         social:
           - url: https://www.linkedin.com/in/rishit-bansal16/
@@ -585,15 +494,12 @@ en: &DEFAULT_EN
           - url: https://github.com/Rixhee
             icon: fas fa-book
 
-      - name: "Rohan Shah"
-        role: "Accumulator Engineer"
-        image: assets/img/team/RohanS.jpg
-        social:
-          - url: https://www.linkedin.com/in/rohan-p-shah
-            icon: fab fa-linkedin-in
+      - name: "Roman DeVenaro"
+        role: "Marketing"
+        image: assets/img/team-photos/mk6square.jpg
       
       - name: "Rowan Jansen"
-        role: "Mechanical Design Lead"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Rowan.jpg
         social:
           - url: https://www.linkedin.com/in/rjansens123/
@@ -601,77 +507,43 @@ en: &DEFAULT_EN
             url: https://rjansens.com
             icon: fas fa-book
 
-      - name: "Shamama Sirroon"
-        role: "Senior Suspension Engineer"
-        image: assets/img/team/Shamama.jpg
-        social:
-          - url: https://www.linkedin.com/in/shamama-sirroon/
-            icon: fab fa-linkedin-in
-            url: https://ssirroon.github.io/Portfolio/
-            icon: fas fa-book
-
-      - name: "Sreenidhi Chalimadugu"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team/Sree.jpg
-        social:
-          - url: https://www.linkedin.com/in/sreenidhi-chalimadugu
-            icon: fab fa-linkedin-in
-
-      - name: "Sydney Chung"
-        role: "Senior Cockpit Engineer"
-        image: assets/img/team/Sydney2.jpg
-        social:
-          - url: https://www.linkedin.com/in/sydney-chung-b08569195/
-            icon: fab fa-linkedin-in
-          - url: https://sydneysc4.wixsite.com/sydney-chung
-            icon: fas fa-book
+      - name: "Tabitha Davidson"
+        role: "Senior Mechanical Engineer"
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Tara Lee"
-        role: "Cockpit Lead Engineer"
+        role: "Senior Mechanical Engineer"
         image: assets/img/team/Tara.jpg
         social:
           - url: https://www.linkedin.com/in/tabitha-davison-b2205b24b/
             icon: fab fa-linkedin-in
 
+      - name: "Trinity Haisch"
+        role: "High Voltage"
+        image: assets/img/team-photos/mk6square.jpg
+
       - name: "Trinity Lee"
-        role: "Electrical Engineer"
+        role: "Senior Electrical Engineer"
         image: assets/img/team/Trinity.jpg
         social:
           - url: https://www.linkedin.com/in/trinitylee/
             icon: fab fa-linkedin-in
 
+      - name: "Troy Anderson"
+        role: "Integration"
+        image: assets/img/team-photos/mk6square.jpg
+
       - name: "Vaani Bhatnagar"
-        role: "Cockpit Engineer"
+        role: "Cockpit"
         image: assets/img/team/Vaani.jpg
         social:
           - url: https://www.linkedin.com/in/vaani-bhatnagar-3b90b3182/
             icon: fab fa-linkedin-in
           - url: https://vbhatnagar.myportfolio.com/
             icon: fas fa-book
-
-      - name: "Van Myers"
-        role: "Marketing Manager"
-        image: assets/img/team/Van.jpg
-        social:
-          - url: https://www.linkedin.com/in/van-myers-3252b9177/
-            icon: fab fa-linkedin-in
-      
-      - name: "Vaughn Rhinehart"
-        role: "Electrical Engineer"
-        image: assets/img/team/Vaughn.jpg
-        social:
-          - url: https://www.linkedin.com/in/vaughn-rhinehart-3630231a5/
-            icon: fab fa-linkedin-in
-
-      - name: "Venkadesh Eswaranandam"
-        role: "Electrical Engineer"
-        image: assets/img/team/Venkadesh.jpg
-        social:
-          - url: https://www.linkedin.com/in/venkadesh-eswaranandam-041161252/
-            icon: fab fa-linkedin-in
       
       - name: "Vivian Mak"
-        role: "Accumulator Engineer"
+        role: "Accumulator Lead"
         image: assets/img/team/Vivian2.jpg
         social:
           - url: https://www.linkedin.com/in/vivianzmak
@@ -680,11 +552,19 @@ en: &DEFAULT_EN
             icon: fas fa-book
 
       - name: "Wynona Brinkmann"
-        role: "Integration Engineer"
+        role: "Financial Manager"
         image: assets/img/team/Wynona.jpg
         social:
           - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
             icon: fab fa-linkedin-in
+
+      - name: "Zahra Lari"
+        role: "Suspension"
+        image: assets/img/team-photos/mk6square.jpg
+
+      - name: "Zarin Sikder"
+        role: "Accumulator"
+        image: assets/img/team-photos/mk6square.jpg
       
   aboutSponsors:
     title: "Our Sponsors"
