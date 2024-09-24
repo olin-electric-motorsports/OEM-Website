@@ -147,13 +147,18 @@ en: &DEFAULT_EN
         desc: "At virtual competition due to COVID-19, we participated in the Design event, placing 1st in our division at Formula SAE Virtual"
         image: assets/img/team-photos/MkVRender.png
         alt:
-      - title: "MKV Completion"
+      - title: "MKV Competition"
         year: "2022"
         desc: "After returning to in-person school, the team completed Mk V Andromeda and brought the car to competition, where we placed 30th in 
         the Electric Vehicle class at Formula SAE Michigan. Most of our team hadn't experienced a full design cycle and only a few had been to 
         competition, making Andromeda's completion a milestone for the team."
         image: assets/img/team-photos/mk5square.jpg
         alt:
+      - title: "MKVI Competition"
+        year: "2024"
+        desc: "Mk VI was our fifth fully electric vehicle; it successfully passed all technical inspections before encountering a BSPD fault during the fifth lap of Endurance. 
+        This is the team's first time having a car in Endurance since Mk VII."
+        image: assets/img/team-photos/mk6square.jpg
 
   contact:
     title: "Contact Us"
