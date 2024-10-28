@@ -27,6 +27,25 @@ en: &DEFAULT_EN
           engineer.<br><br><img src="assets/img/team-photos/oem-team-photo-spring-2024.png" width=100%>
     section: about
 
+  givecampus:
+    title: "Ongoing Scalefunder"
+    body: "This year marks a significant milestone for our team—the first time in over five years 
+      that we have a fully functional and drivable car, the Mk VI. But it’s more than just a vehicle; 
+      it represents our journey of resilience, commitment, and growth. To ensure we keep Mk VI on the road, 
+      we’re launching a fundraising campaign with a goal of raising $10,000 by November 6th. 
+      The funds will support the purchase of a new motor, motor controller, and other essential components, 
+      enabling us to continue gathering vital testing data that will inform the design of our next car, Mk VII.
+      \n
+
+
+      Maintaining Mk VI is not just about keeping a car running; it’s about sustaining the momentum that drives 
+      our team forward. After years of repurposing components from past models, this funding will allow us to 
+      preserve the integrity and functionality of Mk VI. It will provide us with the opportunity to deepen our 
+      learning from the data we collect and keep the team inspired as we work towards our ambitious goal of 
+      building the next generation car within a year. To learn more about our journey and how you can support us, 
+      visit our fundraiser here:"
+    packageLink: "https://www.givecampus.com/schools/OlinCollegeofEngineering/olin-electric-motorsports-driving-innovation-fostering-family"
+
   sponsorship:
     title: "Sponsor Us"
     text: Our team relies on collaborative relationships with our sponsors.
