@@ -1,0 +1,36 @@
+<!-- GiveCampus -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].givecampus.section | default: "give campus" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].givecampus.title | default: "give campus" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].givecampus.body | markdownify}}</div>
+        <iframe src={{site.data.sitetext[site.locale].givecampus.packageLink}} width=100% height="700" allow="autoplay"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="bg-light page-section" id="{{ site.data.sitetext.givecampus.section | default: "give campus" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.givecampus.title | default: "give campus Us" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.givecampus.text | default: ""}}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <div class="large text-muted">{{ site.data.sitetext.givecampus.body | markdownify}}</div>
+        <iframe src={{site.data.sitetext[site.locale].givecampus.packageLink}} width=100% height="700" allow="autoplay"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End GiveCampus -->
