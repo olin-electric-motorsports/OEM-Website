@@ -1,0 +1,345 @@
+hello world!Right is:2
+Left is:9
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:7
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Mi
+hello world!Right is:2
+Left is:9
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:1
+Left is:2
+Middle is:6
+Right motor pwr =-40
+Left motor pwr =40
+Right is:2
+Left is:2

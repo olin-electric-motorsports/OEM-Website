@@ -309,7 +309,7 @@ en: &DEFAULT_EN
 
       - name: "Jacob Keller"
         role: "LV Lead"
-        image: assets/img/team-photos/mk6square.jpg
+        image: assets/img/team/jacobk.jpg
 
       - name: "Jack Goode"
         role: "LV"
