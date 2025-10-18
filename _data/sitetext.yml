@@ -29,22 +29,29 @@ en: &DEFAULT_EN
 
   givecampus:
     title: "Support Us"
-    body: "This year marks a significant milestone for our team—the first time in over five years 
-      that we have a fully functional and drivable car, the Mk VI. But it’s more than just a vehicle; 
-      it represents our journey of resilience, commitment, and growth. To ensure we keep Mk VI on the road, 
-      we’re launching a fundraising campaign with a goal of raising $10,000 by November 6th. 
-      The funds will support the purchase of a new motor, motor controller, and other essential components, 
-      enabling us to continue gathering vital testing data that will inform the design of our next car, Mk VII.
+    body: "This year is a turning point for our team. Having successfully designed, built, and competed in the
+      Formula SAE competition in Michigan for the past two cycles, we are pushing ourselves to elevate our engineering
+      by embracing a data-driven design philosophy. This strategic shift is in direct response to feedback from FSAE
+      design judges last year, who emphasized the importance of setting concrete performance goals and validating designs
+      with empirical data.
       \n
 
 
-      Maintaining Mk VI is not just about keeping a car running; it’s about sustaining the momentum that drives 
-      our team forward. After years of repurposing components from past models, this funding will allow us to 
-      preserve the integrity and functionality of Mk VI. It will provide us with the opportunity to deepen our 
-      learning from the data we collect and keep the team inspired as we work towards our ambitious goal of 
-      building the next generation car within a year. To learn more about our journey and how you can support us, 
-      visit our fundraiser here:"
-    packageLink: "https://www.givecampus.com/schools/OlinCollegeofEngineering/olin-electric-motorsports-driving-innovation-fostering-family"
+      Our primary objective for the current design cycle is to develop a vehicle capable of completing the endurance event
+      in under 30 minutes. To achieve this ambitious target, we are pursuing two significant technical advancements: the
+      integration of a more advanced data acquisition system and the development of our team’s first-ever aerodynamics package.
+      To get this data, we are integrating over ten new sensors into our car, including wheel speed sensors, suspension strain gauges,
+      and infrared tire temperature sensors. This data is the key to creating and validating a full-vehicle suspension simulation
+      in MATLAB and an aerodynamic model. For the first time, these models will allow us to define our suspension geometry and new
+      aerodynamics package with test data, marking our transition from theory-based to data-driven engineering.
+      \n
+
+
+      To ensure we can meet these incredible goals we are launching a fundraising campaign with the goal of raising $20,000 by Nov 14.
+      All funds will go directly toward the materials for our composite work that will give our members a hands-on learning experience they 
+      simply would not have otherwise. The funds will also contribute to our new suite of sensors, allowing us to rigorously test and advance 
+      our car through data. To learn more about our journey and how you can support us, visit the fundraiser here"
+    packageLink: "https://www.olin.edu/give-olin-areas-support-student-crowdfunding/support-olin-electric-motorsports-help-them-build"
 
   sponsorship:
     title: "Sponsor Us"
@@ -144,7 +151,7 @@ en: &DEFAULT_EN
       - title: "Olin Electric Motorsports Rebrand"
         year: "2016"
         desc: "REVO became Olin Electric Motorsports to better represent the team. Rather than purely focusing on electric vehicle research, our team expanded to build electric race cars to compete against other collegiate teams."
-        image: assets/img/oemlogos/oemRetro.JPG
+        image: assets/img/oemlogos/oemRetro.jpg
         alt: 
       - title: "MKII Competition"
         year: "2017"
@@ -171,13 +178,13 @@ en: &DEFAULT_EN
         desc: "After returning to in-person school, the team completed Mk V Andromeda and brought the car to competition, where we placed 30th in 
         the Electric Vehicle class at Formula SAE Michigan. Most of our team hadn't experienced a full design cycle and only a few had been to 
         competition, making Andromeda's completion a milestone for the team."
-        image: assets/img/team-photos/mk5square.JPG
+        image: assets/img/team-photos/mk5square.jpg
         alt:
       - title: "MKVI Competition"
         year: "2024"
         desc: "Mk VI was our fifth fully electric vehicle; it successfully passed all technical inspections before encountering a BSPD fault during the fifth lap of Endurance. 
         This is the team's first time having a car in Endurance since Mk II."
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
   contact:
     title: "Contact Us"
@@ -200,246 +207,246 @@ en: &DEFAULT_EN
     people:
       - name: "Abigail Paulding"
         role: "Marketing"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Addison Fischer"
         role: "Suspension Lead"
-        image: assets/img/team/addison.JPG
+        image: assets/img/team/addison.jpg
 
       - name: "Akil Pugalenthi"
         role: "Integration  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Alyssa Aranda"
         role: "Mechanical Lead"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Ananth Kutuva"
         role: "Drivetrain Lead"
-        image: assets/img/team/ananth.JPG
+        image: assets/img/team/ananth.jpg
 
       - name: "Angela Huang"
         role: "Senior Engineer"
-        image: assets/img/team/Angela4.JPG
+        image: assets/img/team/Angela4.jpg
         social:
           - url: https://www.linkedin.com/in/angelahuang-olin/
             icon: fab fa-linkedin-in
 
       - name: "Anthony Cheung"
         role: "Senior Engineer"
-        image: assets/img/team/Anthony2.JPG
+        image: assets/img/team/Anthony2.jpg
         social:
           - url: https://www.linkedin.com/in/acheung09
             icon: fab fa-linkedin-in
 
       - name: "Ben Ricket"
         role: "Suspension"
-        image: assets/img/team/ben.JPG
+        image: assets/img/team/ben.jpg
 
       - name: "Brandon Spiller"
         role: "Integration"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Darian Jimenez"
         role: "Senior Engineer"
-        image: assets/img/team/Darian2.JPG
+        image: assets/img/team/Darian2.jpg
         social:
           - url: https://www.linkedin.com/in/darian-jimenez/
             icon: fab fa-linkedin-in
 
       - name: "David Bardelez"
         role: "HV  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Detch Mateedunsatits"
         role: "Cockpit  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Drew Pang"
         role: "Senior Electrical Engineer"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Duc Nguyen"
         role: "Integration  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Eric Le"
         role: "Drivetrain  "
-        image: assets/img/team/eric.JPG
+        image: assets/img/team/eric.jpg
 
       - name: "Ethan Ju"
         role: "HV  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Fiona McSherry"
         role: "Senior Engineer"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Geraldo Rojas"
         role: "Accumulator  "
-        image: assets/img/team/geraldo.JPG
+        image: assets/img/team/geraldo.jpg
 
       - name: "Grant Rechtin"
         role: "Sensing  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Hai Kim"
         role: "Suspension  "
-        image: assets/img/team/hai.JPG
+        image: assets/img/team/hai.jpg
 
       - name: "Harlan Haller"
         role: "Sensing Lead"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Henry Tejada Deras"
         role: "E-Lead"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Iris Tang"
         role: "LV  "
-        image: assets/img/team/iris.JPG
+        image: assets/img/team/iris.jpg
 
       - name: "Ishan Patel"
         role: "Marketing"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Ivry Frost"
         role: "Accumulator  "
-        image: assets/img/team/ivry.JPG
+        image: assets/img/team/ivry.jpg
 
       - name: "Jacob Keller"
         role: "LV Lead"
-        image: assets/img/team/jacobk.JPG
+        image: assets/img/team/jacobk.jpg
 
       - name: "Jack Goode"
         role: "LV"
-        image: assets/img/team/jack.JPG
+        image: assets/img/team/jack.jpg
 
       - name: "Jacob Likins"
         role: "E-Lead"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Jake Hamilton"
         role: "Project Manager"
-        image: assets/img/team/jake.JPG
+        image: assets/img/team/jake.jpg
 
       - name: "Jonathan Sun"
         role: "Suspension"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Justin Yoon"
         role: "LV  "
-        image: assets/img/team/justin.JPG
+        image: assets/img/team/justin.jpg
 
       - name: "Kai-Xing Yue"
         role: "Accumulator"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Kefan Wu"
         role: "Cockpit Lead"
-        image: assets/img/team/kefan.JPG
+        image: assets/img/team/kefan.jpg
 
       - name: "Kuhu Jayaswal"
         role: "HV Lead"
-        image: assets/img/team/kuhu.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Leo Liao"
         role: "Integration  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Liam Fries"
         role: "HV  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Lily Mosisa"
         role: "Operations  "
-        image: assets/img/team/lily.JPG
+        image: assets/img/team/lily.jpg
 
       - name: "Lucien Lin"
         role: "Drivetrain"
-        image: assets/img/team/Lucien.JPG
+        image: assets/img/team/Lucien.jpg
         social:
           - url: https://www.linkedin.com/in/lucienlin
             icon: fab fa-linkedin-in
 
       - name: "Luke Wei"
         role: "Sensing  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Lukas Littlejohn"
         role: "LV  "
-        image: assets/img/team/lukas.JPG
+        image: assets/img/team/lukas.jpg
 
       - name: "Lydia Byers"
         role: "Suspension  "
-        image: assets/img/team/lydia.JPG
+        image: assets/img/team/lydia.jpg
 
       - name: "Maddie Connelly"
         role: "Cockpit"
-        image: assets/img/team/maddie.JPG
+        image: assets/img/team/maddie.jpg
 
       - name: "Matthew Kwon"
         role: "Accumulator Lead"
-        image: assets/img/team/matthew.JPG
+        image: assets/img/team/matthew.jpg
 
       - name: "Matthew Townsend"
         role: "Sensing  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Meagan Lipsman"
         role: "Operations Lead"
-        image: assets/img/team/Meagan2.JPG
+        image: assets/img/team/Meagan2.jpg
         social:
           - url: https://www.linkedin.com/in/meagan-lipsman
             icon: fab fa-linkedin-in
 
       - name: "Mehmet Firat"
         role: "Drivetrain  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Nathaniel Banse"
         role: "Suspension"
-        image: assets/img/team/nathaniel.JPG
+        image: assets/img/team/nathaniel.jpg
 
       - name: "Pia Swarup"
         role: "Suspension  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Poorvja Joshi"
         role: "Accumulator  "
-        image: assets/img/team/poorvja.JPG
+        image: assets/img/team/poorvja.jpg
 
       - name: "Rori Li"
         role: "Operations  "
-        image: assets/img/team/rori.JPG
+        image: assets/img/team/rori.jpg
 
       - name: "Serene Luo"
         role: "LV  "
-        image: assets/img/team/serene.JPG
+        image: assets/img/team/serene.jpg
 
       - name: "Sofia Ramos"
         role: "Cockpit  "
-        image: assets/img/team/sofia.JPG
+        image: assets/img/team/sofia.jpg
 
       - name: "Spencer Ng"
         role: "Sensing  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Tabitha Davidson"
         role: "Senior Engineer"
-        image: assets/img/team/tabitha.JPG
+        image: assets/img/team/tabitha.jpg
 
       - name: "Tan Vu"
         role: "HV  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Troy Anderson"
         role: "Integration Lead"
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Vivian Mak"
         role: "Senior Engineer"
-        image: assets/img/team/Vivian2.JPG
+        image: assets/img/team/Vivian2.jpg
         social:
           - url: https://www.linkedin.com/in/vivianzmak
             icon: fab fa-linkedin-in
@@ -448,26 +455,26 @@ en: &DEFAULT_EN
 
       - name: "Will Beadle"
         role: "Suspension  "
-        image: assets/img/team/will.JPG
+        image: assets/img/team/will.jpg
 
       - name: "Wynona Brinkmann"
         role: "Senior Engineer"
-        image: assets/img/team/Wynona.JPG
+        image: assets/img/team/Wynona.jpg
         social:
           - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
             icon: fab fa-linkedin-in
 
       - name: "Xavier Nishikawa"
         role: "Sensing  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
       - name: "Yixin Zhou"
         role: "Drivetrain  "
-        image: assets/img/team/yixin.JPG
+        image: assets/img/team/yixin.jpg
 
       - name: "Zahra Lari"
         role: "Suspension  "
-        image: assets/img/team-photos/mk6square.JPG
+        image: assets/img/team-photos/mk6square.jpg
 
   aboutSponsors:
     title: "Our Sponsors"
@@ -495,7 +502,7 @@ en: &DEFAULT_EN
       - image: assets/img/sponsors/Ford.svg
         url: https://www.ford.com/
         alt: "Ford"
-      - image: assets/img/sponsors/Hesse.JPG
+      - image: assets/img/sponsors/Hesse.jpg
         url: https://www.hesse-mechatronics.com/en/
         alt: "Hesse Mechatronics"
       - image: assets/img/sponsors/rapid-harness.png
