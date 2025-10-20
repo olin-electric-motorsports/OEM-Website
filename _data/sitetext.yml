@@ -189,6 +189,9 @@ en: &DEFAULT_EN
         year: "2025"
         desc: "Mk VII was our first car built in one year since Mk II. It passed all technical inspections except for the rain test which resulted in a HV to LV short in the accumulator. Mk. VII marked a turning point for our team from simply building car, to building for performance."
         image: assets/img/team-photos/mk7_comp.jpg
+      - title: "MKVIII Design"
+        desc: "Mk. VIII will be our first car with an aerodynamics package and an advanced suite of sensors. It is being designed to give our engineers more advanced learning opportunities through a performance driven car."
+        image: assets/img/team-photos/Mk8_chassis.png
 
   contact:
     title: "Contact Us"
