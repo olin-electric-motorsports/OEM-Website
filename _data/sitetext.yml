@@ -24,7 +24,7 @@ en: &DEFAULT_EN
           in-depth mechanical, electrical, computer, and systems engineering. By working 
           together to compete each season,  s develop their technical knowledge as
           well as communication and leadership skills essential for success as a professional
-          engineer.<br><br><img src="assets/img/team-photos/oem-team-photo-spring-2024.png" width=100%>
+          engineer.<br><br><img src="assets/img/team-photos/meeting_team_photo_2025.jpg" width=100%>
     section: about
 
   givecampus:
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Our history"
-    text: "Olin Electric Motorsports was founded in 2012 as a college research group by a handful of undergraduate students. Now, we have over 50  s and compete in international Formula SAE 
+    text: "Olin Electric Motorsports was founded in 2012 as a college research group by a handful of undergraduate students. Now, we have over 50 studnet and compete in international Formula SAE 
     Electric competitions with a new open-wheel electric race car every year."
     section: history
     # left is the default
@@ -185,6 +185,10 @@ en: &DEFAULT_EN
         desc: "Mk VI was our fifth fully electric vehicle; it successfully passed all technical inspections before encountering a BSPD fault during the fifth lap of Endurance. 
         This is the team's first time having a car in Endurance since Mk II."
         image: assets/img/team-photos/mk6square.jpg
+      - title: "MKVII Competition"
+        year: "2025"
+        desc: "Mk VII was our first car built in one year since Mk II. It passed all technical inspections except for the rain test which resulted in a HV to LV short in the accumulator. Mk. VII marked a turning point for our team from simply building car, to building for performance."
+        image: assets/img/team-photos/mk7_comp.jpg
 
   contact:
     title: "Contact Us"
