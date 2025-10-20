@@ -116,7 +116,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Our history"
-    text: "Olin Electric Motorsports was founded in 2012 as a college research group by a handful of undergraduate students. Now, we have over 50 studnet and compete in international Formula SAE 
+    text: "Olin Electric Motorsports was founded in 2012 as a college research group by a handful of undergraduate students. Now, we have over 50 students and compete in international Formula SAE 
     Electric competitions with a new open-wheel electric race car every year."
     section: history
     # left is the default
