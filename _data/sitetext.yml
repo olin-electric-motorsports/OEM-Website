@@ -48,7 +48,7 @@ en: &DEFAULT_EN
 
 
       To ensure we can meet these incredible goals we are launching a fundraising campaign with the goal of raising $20,000 by Nov 14.
-      All funds will go directly toward the materials for our composite work that will give our members a hands-on learning experience they 
+      All funds will go directly toward the materials for our composite work that will give our  s a hands-on learning experience they 
       simply would not have otherwise. The funds will also contribute to our new suite of sensors, allowing us to rigorously test and advance 
       our car through data. To learn more about our journey and how you can support us, visit the fundraiser here"
     packageLink: "https://www.olin.edu/give-olin-areas-support-student-crowdfunding/support-olin-electric-motorsports-help-them-build"
@@ -291,13 +291,13 @@ en: &DEFAULT_EN
             role: "Suspension"
             image: assets/img/team/ben.jpg
           - name: "Hai Kim"
-            role: "Suspension Member"
+            role: "Suspension  "
             image: assets/img/team/hai.jpg
           - name: "Jonathan Sun"
             role: "Suspension"
             image: assets/img/team-photos/mk6square.jpg
           - name: "Lydia Byers"
-            role: "Suspension Member"
+            role: "Suspension  "
             image: assets/img/team/lydia.jpg
             social:
               - url: https://www.linkedin.com/in/lydia-byers-20202a321
@@ -306,19 +306,19 @@ en: &DEFAULT_EN
             role: "Suspension"
             image: assets/img/team/nathaniel.jpg
           - name: "Pia Swarup"
-            role: "Suspension Member"
+            role: "Suspension  "
             image: assets/img/team/pia.jpg
           - name: "Will Beadle"
-            role: "Suspension Member"
+            role: "Suspension  "
             image: assets/img/team/will.jpg
           - name: "Zahra Lari"
-            role: "Suspension Member"
+            role: "Suspension  "
             image: assets/img/team-photos/mk6square.jpg
 
       - title: "Drivetrain"
         people:
           - name: "Eric Le"
-            role: "Drivetrain Member"
+            role: "Drivetrain  "
             image: assets/img/team/eric.jpg
           - name: "Lucien Lin"
             role: "Drivetrain"
@@ -327,13 +327,13 @@ en: &DEFAULT_EN
               - url: https://www.linkedin.com/in/lucienlin
                 icon: fab fa-linkedin-in
           - name: "Mehmet Firat"
-            role: "Drivetrain Member"
+            role: "Drivetrain  "
             image: assets/img/team/mehmet.jpg
             social:
               - url: https://www.linkedin.com/in/mehmetafirat
                 icon: fab fa-linkedin-in
           - name: "Yixin Zhou"
-            role: "Drivetrain Member"
+            role: "Drivetrain  "
             image: assets/img/team/yixin.jpg
             social:
               - url: https://www.linkedin.com/in/yixin-zhou-542385271
@@ -342,7 +342,7 @@ en: &DEFAULT_EN
       - title: "Cockpit"
         people:
           - name: "Detch Mateedunsatits"
-            role: "Cockpit Member"
+            role: "Cockpit  "
             image: assets/img/team/detch.jpg
           - name: "Maddie Connelly"
             role: "Cockpit"
@@ -351,58 +351,58 @@ en: &DEFAULT_EN
             role: "Cockpit"
             image: assets/img/team/sherry.jpg
           - name: "Sofia Ramos"
-            role: "Cockpit Member"
+            role: "Cockpit  "
             image: assets/img/team/sofia.jpg
 
       - title: "Integration"
         people:
           - name: "Akil Pugalenthi"
-            role: "Integration Member"
+            role: "Integration  "
             image: assets/img/team/akil.jpg
           - name: "Brandon Spiller"
             role: "Integration"
             image: assets/img/team-photos/mk6square.jpg
           - name: "Duc Nguyen"
-            role: "Integration Member"
+            role: "Integration  "
             image: assets/img/team/duc.jpg
           - name: "Leo Liao"
-            role: "Integration Member"
+            role: "Integration  "
             image: assets/img/team/leo.jpg
 
       - title: "Accumulator"
         people:
           - name: "Geraldo Rojas"
-            role: "Accumulator Member"
+            role: "Accumulator  "
             image: assets/img/team/geraldo.jpg
           - name: "Ivry Frost"
-            role: "Accumulator Member"
+            role: "Accumulator  "
             image: assets/img/team/ivry.jpg
           - name: "Kai-Xing Yue"
             role: "Accumulator"
             image: assets/img/team-photos/mk6square.jpg
           - name: "Poorvja Joshi"
-            role: "Accumulator Member"
+            role: "Accumulator  "
             image: assets/img/team/poorvja.jpg
 
       - title: "High Voltage"
         people:
           - name: "David Bardelez"
-            role: "HV Member"
+            role: "HV  "
             image: assets/img/team/david.jpg
           - name: "Ethan Ju"
-            role: "HV Member"
+            role: "HV  "
             image: assets/img/team/ethan.jpg
           - name: "Liam Fries"
-            role: "HV Member"
+            role: "HV  "
             image: assets/img/team/liam.jpg
           - name: "Tan Vu"
-            role: "HV Member"
+            role: "HV  "
             image: assets/img/team/tan.jpg
             
       - title: "Low Voltage"
         people:
           - name: "Iris Tang"
-            role: "LV Member"
+            role: "LV  "
             image: assets/img/team/iris.jpg
           - name: "Jack Goode"
             role: "LV"
@@ -411,7 +411,7 @@ en: &DEFAULT_EN
               - url: https://www.linkedin.com/in/jack-goode-a7b476386
                 icon: fab fa-linkedin-in
           - name: "Justin Yoon"
-            role: "LV Member"
+            role: "LV  "
             image: assets/img/team/justin.jpg
             social:
               - url: https://www.linkedin.com/in/jyoon06
@@ -419,34 +419,34 @@ en: &DEFAULT_EN
               - url: https://yoonarchive.com/
                 icon: fas fa-globe
           - name: "Lukas Littlejohn"
-            role: "LV Member"
+            role: "LV  "
             image: assets/img/team/lukas.jpg
           - name: "Serene Luo"
-            role: "LV Member"
+            role: "LV  "
             image: assets/img/team/serene.jpg
 
       - title: "Sensing"
         people:
           - name: "Grant Rechtin"
-            role: "Sensing Member"
+            role: "Sensing  "
             image: assets/img/team/grant.jpg
           - name: "Harlan Haller"
             role: "Sensing"
             image: assets/img/team/harlan.jpg
           - name: "Luke Wei"
-            role: "Sensing Member"
+            role: "Sensing  "
             image: assets/img/team-photos/mk6square.jpg
           - name: "Matthew Townsend"
-            role: "Sensing Member"
+            role: "Sensing  "
             image: assets/img/team/matthewt.jpg
           - name: "Spencer Ng"
-            role: "Sensing Member"
+            role: "Sensing  "
             image: assets/img/team/spencer.jpg
           - name: "Tierra Raiti"
             role: "Sensing"
             image: assets/img/team/tierra.jpg
           - name: "Xavier Nishikawa"
-            role: "Sensing Member"
+            role: "Sensing  "
             image: assets/img/team/xavier.jpg
 
       - title: "Operations & Marketing"
@@ -458,10 +458,10 @@ en: &DEFAULT_EN
             role: "Marketing"
             image: assets/img/team-photos/mk6square.jpg
           - name: "Lily Mosisa"
-            role: "Operations Member"
+            role: "Operations  "
             image: assets/img/team/lily.jpg
           - name: "Rori Li"
-            role: "Operations Member"
+            role: "Operations  "
             image: assets/img/team/rori.jpg
             social:
               - url: https://linkedin.com/in/rori-xi-li
