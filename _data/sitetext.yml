@@ -228,7 +228,7 @@ en: &DEFAULT_EN
             image: assets/img/team/jacobl.jpg
           - name: "Meagan Lipsman"
             role: "Operations Lead"
-            image: assets/img/team/meagan.jpg
+            image: assets/img/team/meagan1.jpg
             social:
               - url: https://www.linkedin.com/in/meagan-lipsman
                 icon: fab fa-linkedin-in
