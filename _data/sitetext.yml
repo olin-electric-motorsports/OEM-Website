@@ -209,279 +209,256 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Our team of engineers design, build, and compete with a Formula-style electric race car every year"
-    subtext:
+    subtext: ""
     section: team
-    people:
-      - name: "Abigail Paulding"
-        role: "Marketing"
-        image: assets/img/team-photos/mk6square.jpg
+    groups:
+      - title: "Leadership"
+        people:
+          - name: "Jake Hamilton"
+            role: "Project Manager"
+            image: assets/img/team/jake.jpg
+          - name: "Alyssa Aranda"
+            role: "Mechanical System Lead"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Henry Tejada Deras"
+            role: "Electrical System Lead"
+            image: assets/img/team/henry.jpg
+          - name: "Jacob Likins"
+            role: "Electrical System Lead"
+            image: assets/img/team/jacobl.jpg
+          - name: "Meagan Lipsman"
+            role: "Operations Lead"
+            image: assets/img/team/meagan.jpg
+            social:
+              - url: https://www.linkedin.com/in/meagan-lipsman
+                icon: fab fa-linkedin-in
 
-      - name: "Addison Fischer"
-        role: "Suspension Lead"
-        image: assets/img/team/addison.jpg
+      - title: "Mechanical Sub-System Leads"
+        people:
+          - name: "Addison Fisher"
+            role: "Suspension Lead"
+            image: assets/img/team/addison.jpg
+          - name: "Ananth Kutuva"
+            role: "Drivetrain Lead"
+            image: assets/img/team/ananth.jpg
+          - name: "Kefan Wu"
+            role: "Cockpit Lead"
+            image: assets/img/team/kefan.jpg
+          - name: "Matthew Kwon"
+            role: "Accumulator Lead"
+            image: assets/img/team/matthew.jpg
+      - title: "Electrical Sub-System Leads"
+        people:
+          - name: "Kuhu Jayaswal"
+            role: "Hight Voltage Lead"
+            image: assets/img/team/kuhu.jpg
+          - name: "Jacob Keller"
+            role: "Low Voltage Lead"
+            image: assets/img/team/jacobk.jpg
+          - name: "Althea Ivins"
+            role: "Sensing Lead"
+            image: assets/img/team/althea.jpg
+          - name: "Troy Anderson"
+            role: "Integration Lead"
+            image: assets/img/team/troy.jpg
 
-      - name: "Akil Pugalenthi"
-        role: "Integration  "
-        image: assets/img/team-photos/mk6square.jpg
+      - title: "Suspension"
+        people:
+          - name: "Ben Ricket"
+            role: "Suspension"
+            image: assets/img/team/ben.jpg
+          - name: "Hai Kim"
+            role: "Suspension Member"
+            image: assets/img/team/hai.jpg
+          - name: "Jonathan Sun"
+            role: "Suspension"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Lydia Byers"
+            role: "Suspension Member"
+            image: assets/img/team/lydia.jpg
+          - name: "Nathaniel Banse"
+            role: "Suspension"
+            image: assets/img/team/nathaniel.jpg
+          - name: "Pia Swarup"
+            role: "Suspension Member"
+            image: assets/img/team/pia.jpg
+          - name: "Will Beadle"
+            role: "Suspension Member"
+            image: assets/img/team/will.jpg
+          - name: "Zahra Lari"
+            role: "Suspension Member"
+            image: assets/img/team-photos/mk6square.jpg
 
-      - name: "Alyssa Aranda"
-        role: "Mechanical Lead"
-        image: assets/img/team-photos/mk6square.jpg
+      - title: "Drivetrain"
+        people:
+          - name: "Eric Le"
+            role: "Drivetrain Member"
+            image: assets/img/team/eric.jpg
+          - name: "Lucien Lin"
+            role: "Drivetrain"
+            image: assets/img/team/Lucien.jpg
+            social:
+              - url: https://www.linkedin.com/in/lucienlin
+                icon: fab fa-linkedin-in
+          - name: "Mehmet Firat"
+            role: "Drivetrain Member"
+            image: assets/img/team/mehmet.jpg
+          - name: "Yixin Zhou"
+            role: "Drivetrain Member"
+            image: assets/img/team/yixin.jpg
 
-      - name: "Ananth Kutuva"
-        role: "Drivetrain Lead"
-        image: assets/img/team/ananth.jpg
+      - title: "Cockpit"
+        people:
+          - name: "Detch Mateedunsatits"
+            role: "Cockpit Member"
+            image: assets/img/team/detch.jpg
+          - name: "Maddie Connelly"
+            role: "Cockpit"
+            image: assets/img/team/maddie.jpg
+          - name: "Sherry Shen"
+            role: "Cockpit"
+            image: assets/img/team/sherry.jpg
+          - name: "Sofia Ramos"
+            role: "Cockpit Member"
+            image: assets/img/team/sofia.jpg
 
-      - name: "Angela Huang"
-        role: "Senior Engineer"
-        image: assets/img/team/Angela4.jpg
-        social:
-          - url: https://www.linkedin.com/in/angelahuang-olin/
-            icon: fab fa-linkedin-in
+      - title: "Integration"
+        people:
+          - name: "Akil Pugalenthi"
+            role: "Integration Member"
+            image: assets/img/team/akil.jpg
+          - name: "Brandon Spiller"
+            role: "Integration"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Duc Nguyen"
+            role: "Integration Member"
+            image: assets/img/team/duc.jpg
+          - name: "Leo Liao"
+            role: "Integration Member"
+            image: assets/img/team/leo.jpg
 
-      - name: "Anthony Cheung"
-        role: "Senior Engineer"
-        image: assets/img/team/Anthony2.jpg
-        social:
-          - url: https://www.linkedin.com/in/acheung09
-            icon: fab fa-linkedin-in
+      - title: "Accumulator"
+        people:
+          - name: "Geraldo Rojas"
+            role: "Accumulator Member"
+            image: assets/img/team/geraldo.jpg
+          - name: "Ivry Frost"
+            role: "Accumulator Member"
+            image: assets/img/team/ivry.jpg
+          - name: "Kai-Xing Yue"
+            role: "Accumulator"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Poorvja Joshi"
+            role: "Accumulator Member"
+            image: assets/img/team/poorvja.jpg
 
-      - name: "Ben Ricket"
-        role: "Suspension"
-        image: assets/img/team/ben.jpg
+      - title: "High Voltage"
+        people:
+          - name: "David Bardelez"
+            role: "HV Member"
+            image: assets/img/team/david.jpg
+          - name: "Ethan Ju"
+            role: "HV Member"
+            image: assets/img/team/ethan.jpg
+          - name: "Liam Fries"
+            role: "HV Member"
+            image: assets/img/team/liam.jpg
+          - name: "Tan Vu"
+            role: "HV Member"
+            image: assets/img/team/tan.jpg
+            
+      - title: "Low Voltage"
+        people:
+          - name: "Iris Tang"
+            role: "LV Member"
+            image: assets/img/team/iris.jpg
+          - name: "Jack Goode"
+            role: "LV"
+            image: assets/img/team/jack.jpg
+          - name: "Justin Yoon"
+            role: "LV Member"
+            image: assets/img/team/justin.jpg
+          - name: "Lukas Littlejohn"
+            role: "LV Member"
+            image: assets/img/team/lukas.jpg
+          - name: "Serene Luo"
+            role: "LV Member"
+            image: assets/img/team/serene.jpg
 
-      - name: "Brandon Spiller"
-        role: "Integration"
-        image: assets/img/team-photos/mk6square.jpg
+      - title: "Sensing"
+        people:
+          - name: "Grant Rechtin"
+            role: "Sensing Member"
+            image: assets/img/team/grant.jpg
+          - name: "Harlan Haller"
+            role: "Sensing"
+            image: assets/img/team/harlan.jpg
+          - name: "Luke Wei"
+            role: "Sensing Member"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Matthew Townsend"
+            role: "Sensing Member"
+            image: assets/img/team/matthewt.jpg
+          - name: "Spencer Ng"
+            role: "Sensing Member"
+            image: assets/img/team/spencer.jpg
+          - name: "Tierra Raiti"
+            role: "Sensing"
+            image: assets/img/team/tierra.jpg
+          - name: "Xavier Nishikawa"
+            role: "Sensing Member"
+            image: assets/img/team/xavier.jpg
 
-      - name: "Darian Jimenez"
-        role: "Senior Engineer"
-        image: assets/img/team/Darian2.jpg
-        social:
-          - url: https://www.linkedin.com/in/darian-jimenez/
-            icon: fab fa-linkedin-in
+      - title: "Operations & Marketing"
+        people:
+          - name: "Abigail Paulding"
+            role: "Marketing"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Ishan Patel"
+            role: "Marketing"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Lily Mosisa"
+            role: "Operations Member"
+            image: assets/img/team/lily.jpg
+          - name: "Rori Li"
+            role: "Operations Member"
+            image: assets/img/team/rori.jpg
 
-      - name: "David Bardelez"
-        role: "HV  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Detch Mateedunsatits"
-        role: "Cockpit  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Drew Pang"
-        role: "Senior Electrical Engineer"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Duc Nguyen"
-        role: "Integration  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Eric Le"
-        role: "Drivetrain  "
-        image: assets/img/team/eric.jpg
-
-      - name: "Ethan Ju"
-        role: "HV  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Fiona McSherry"
-        role: "Senior Engineer"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Geraldo Rojas"
-        role: "Accumulator  "
-        image: assets/img/team/geraldo.jpg
-
-      - name: "Grant Rechtin"
-        role: "Sensing  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Hai Kim"
-        role: "Suspension  "
-        image: assets/img/team/hai.jpg
-
-      - name: "Harlan Haller"
-        role: "Sensing Lead"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Henry Tejada Deras"
-        role: "E-Lead"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Iris Tang"
-        role: "LV  "
-        image: assets/img/team/iris.jpg
-
-      - name: "Ishan Patel"
-        role: "Marketing"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Ivry Frost"
-        role: "Accumulator  "
-        image: assets/img/team/ivry.jpg
-
-      - name: "Jacob Keller"
-        role: "LV Lead"
-        image: assets/img/team/jacobk.jpg
-
-      - name: "Jack Goode"
-        role: "LV"
-        image: assets/img/team/jack.jpg
-
-      - name: "Jacob Likins"
-        role: "E-Lead"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Jake Hamilton"
-        role: "Project Manager"
-        image: assets/img/team/jake.jpg
-
-      - name: "Jonathan Sun"
-        role: "Suspension"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Justin Yoon"
-        role: "LV  "
-        image: assets/img/team/justin.jpg
-
-      - name: "Kai-Xing Yue"
-        role: "Accumulator"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Kefan Wu"
-        role: "Cockpit Lead"
-        image: assets/img/team/kefan.jpg
-
-      - name: "Kuhu Jayaswal"
-        role: "HV Lead"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Leo Liao"
-        role: "Integration  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Liam Fries"
-        role: "HV  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Lily Mosisa"
-        role: "Operations  "
-        image: assets/img/team/lily.jpg
-
-      - name: "Lucien Lin"
-        role: "Drivetrain"
-        image: assets/img/team/Lucien.jpg
-        social:
-          - url: https://www.linkedin.com/in/lucienlin
-            icon: fab fa-linkedin-in
-
-      - name: "Luke Wei"
-        role: "Sensing  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Lukas Littlejohn"
-        role: "LV  "
-        image: assets/img/team/lukas.jpg
-
-      - name: "Lydia Byers"
-        role: "Suspension  "
-        image: assets/img/team/lydia.jpg
-
-      - name: "Maddie Connelly"
-        role: "Cockpit"
-        image: assets/img/team/maddie.jpg
-
-      - name: "Matthew Kwon"
-        role: "Accumulator Lead"
-        image: assets/img/team/matthew.jpg
-
-      - name: "Matthew Townsend"
-        role: "Sensing  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Meagan Lipsman"
-        role: "Operations Lead"
-        image: assets/img/team/Meagan2.jpg
-        social:
-          - url: https://www.linkedin.com/in/meagan-lipsman
-            icon: fab fa-linkedin-in
-
-      - name: "Mehmet Firat"
-        role: "Drivetrain  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Nathaniel Banse"
-        role: "Suspension"
-        image: assets/img/team/nathaniel.jpg
-
-      - name: "Pia Swarup"
-        role: "Suspension  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Poorvja Joshi"
-        role: "Accumulator  "
-        image: assets/img/team/poorvja.jpg
-
-      - name: "Rori Li"
-        role: "Operations  "
-        image: assets/img/team/rori.jpg
-
-      - name: "Serene Luo"
-        role: "LV  "
-        image: assets/img/team/serene.jpg
-
-      - name: "Sofia Ramos"
-        role: "Cockpit  "
-        image: assets/img/team/sofia.jpg
-
-      - name: "Spencer Ng"
-        role: "Sensing  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Tabitha Davidson"
-        role: "Senior Engineer"
-        image: assets/img/team/tabitha.jpg
-
-      - name: "Tan Vu"
-        role: "HV  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Troy Anderson"
-        role: "Integration Lead"
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Vivian Mak"
-        role: "Senior Engineer"
-        image: assets/img/team/Vivian2.jpg
-        social:
-          - url: https://www.linkedin.com/in/vivianzmak
-            icon: fab fa-linkedin-in
-          - url: https://vmak.myportfolio.com/
-            icon: fas fa-book
-
-      - name: "Will Beadle"
-        role: "Suspension  "
-        image: assets/img/team/will.jpg
-
-      - name: "Wynona Brinkmann"
-        role: "Senior Engineer"
-        image: assets/img/team/Wynona.jpg
-        social:
-          - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
-            icon: fab fa-linkedin-in
-
-      - name: "Xavier Nishikawa"
-        role: "Sensing  "
-        image: assets/img/team-photos/mk6square.jpg
-
-      - name: "Yixin Zhou"
-        role: "Drivetrain  "
-        image: assets/img/team/yixin.jpg
-
-      - name: "Zahra Lari"
-        role: "Suspension  "
-        image: assets/img/team-photos/mk6square.jpg
+      - title: "Senior Engineers"
+        people:
+          - name: "Angela Huang"
+            role: "Senior Engineer"
+            image: assets/img/team/Angela4.jpg
+            social:
+              - url: https://www.linkedin.com/in/angelahuang-olin/
+                icon: fab fa-linkedin-in
+          - name: "Anthony Cheung"
+            role: "Senior Engineer"
+            image: assets/img/team/Anthony2.jpg
+            social:
+              - url: https://www.linkedin.com/in/acheung09
+                icon: fab fa-linkedin-in
+          - name: "Darian Jimenez"
+            role: "Senior Engineer"
+            image: assets/img/team/Darian2.jpg
+            social:
+              - url: https://www.linkedin.com/in/darian-jimenez/
+                icon: fab fa-linkedin-in
+          - name: "Drew Pang"
+            role: "Senior Electrical Engineer"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Fiona McSherry"
+            role: "Senior Engineer"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Tabitha Davidson"
+            role: "Senior Engineer"
+            image: assets/img/team/tabitha.jpg
+          - name: "Wynona Brinkmann"
+            role: "Senior Engineer"
+            image: assets/img/team/Wynona.jpg
+            social:
+              - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
+                icon: fab fa-linkedin-in
 
   aboutSponsors:
     title: "Our Sponsors"
