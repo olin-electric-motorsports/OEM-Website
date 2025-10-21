@@ -217,12 +217,24 @@ en: &DEFAULT_EN
           - name: "Jake Hamilton"
             role: "Project Manager"
             image: assets/img/team/jake.jpg
+            social:
+              - url: https://www.linkedin.com/in/james-keller-hamilton-2593b1328/
+                icon: fab fa-linkedin-in
+              - url: https://www.jake-hamilton.com
+                icon: fas fa-globe
+
           - name: "Alyssa Aranda"
             role: "Mechanical System Lead"
             image: assets/img/team-photos/mk6square.jpg
+            social:
+              - url: https://www.linkedin.com/in/alyssaaranda/
+                icon: fab fa-linkedin-in
           - name: "Henry Tejada Deras"
             role: "Electrical System Lead"
             image: assets/img/team/henry.jpg
+            social:
+              - url: https://www.linkedin.com/in/henry-neftaly-tejada-deras/
+                icon: fab fa-linkedin-in
           - name: "Jacob Likins"
             role: "Electrical System Lead"
             image: assets/img/team/jacobl.jpg
@@ -238,12 +250,18 @@ en: &DEFAULT_EN
           - name: "Addison Fisher"
             role: "Suspension Lead"
             image: assets/img/team/addison.jpg
+            social:
+              - url: https://www.linkedin.com/in/addison-fisher/
+                icon: fab fa-linkedin-in
           - name: "Ananth Kutuva"
             role: "Drivetrain Lead"
             image: assets/img/team/ananth.jpg
           - name: "Kefan Wu"
             role: "Cockpit Lead"
             image: assets/img/team/kefan.jpg
+            social:
+              - url: https://www.linkedin.com/in/kefan-wu-olin
+                icon: fab fa-linkedin-in
           - name: "Matthew Kwon"
             role: "Accumulator Lead"
             image: assets/img/team/matthew.jpg
@@ -255,6 +273,11 @@ en: &DEFAULT_EN
           - name: "Jacob Keller"
             role: "Low Voltage Lead"
             image: assets/img/team/jacobk.jpg
+            social:
+              - url: https://www.linkedin.com/in/jacob-keller-profile
+                icon: fab fa-linkedin-in
+              - url: https://jacobkeller.me
+                icon: fas fa-globe
           - name: "Althea Ivins"
             role: "Sensing Lead"
             image: assets/img/team/althea.jpg
@@ -276,6 +299,9 @@ en: &DEFAULT_EN
           - name: "Lydia Byers"
             role: "Suspension Member"
             image: assets/img/team/lydia.jpg
+            social:
+              - url: https://www.linkedin.com/in/lydia-byers-20202a321
+                icon: fab fa-linkedin-in
           - name: "Nathaniel Banse"
             role: "Suspension"
             image: assets/img/team/nathaniel.jpg
@@ -303,9 +329,15 @@ en: &DEFAULT_EN
           - name: "Mehmet Firat"
             role: "Drivetrain Member"
             image: assets/img/team/mehmet.jpg
+            social:
+              - url: https://www.linkedin.com/in/mehmetafirat
+                icon: fab fa-linkedin-in
           - name: "Yixin Zhou"
             role: "Drivetrain Member"
             image: assets/img/team/yixin.jpg
+            social:
+              - url: https://www.linkedin.com/in/yixin-zhou-542385271
+                icon: fab fa-linkedin-in
 
       - title: "Cockpit"
         people:
@@ -375,9 +407,17 @@ en: &DEFAULT_EN
           - name: "Jack Goode"
             role: "LV"
             image: assets/img/team/jack.jpg
+            social:
+              - url: https://www.linkedin.com/in/jack-goode-a7b476386
+                icon: fab fa-linkedin-in
           - name: "Justin Yoon"
             role: "LV Member"
             image: assets/img/team/justin.jpg
+            social:
+              - url: https://www.linkedin.com/in/jyoon06
+                icon: fab fa-linkedin-in
+              - url: https://yoonarchive.com/
+                icon: fas fa-globe
           - name: "Lukas Littlejohn"
             role: "LV Member"
             image: assets/img/team/lukas.jpg
@@ -423,6 +463,9 @@ en: &DEFAULT_EN
           - name: "Rori Li"
             role: "Operations Member"
             image: assets/img/team/rori.jpg
+            social:
+              - url: https://linkedin.com/in/rori-xi-li
+                icon: fab fa-linkedin-in
 
       - title: "Senior Engineers"
         people:
@@ -459,6 +502,7 @@ en: &DEFAULT_EN
             social:
               - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
                 icon: fab fa-linkedin-in
+
 
   aboutSponsors:
     title: "Our Sponsors"
