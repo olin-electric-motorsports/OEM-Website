@@ -432,7 +432,7 @@ en: &DEFAULT_EN
             image: assets/img/team/grant.jpg
           - name: "Harlan Haller"
             role: "Sensing"
-            image: assets/img/team/harlan.jpg
+            image: assets/img/team/harlan1.jpg
           - name: "Luke Wei"
             role: "Sensing  "
             image: assets/img/team-photos/mk6square.jpg
