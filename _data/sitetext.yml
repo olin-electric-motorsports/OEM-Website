@@ -269,6 +269,9 @@ en: &DEFAULT_EN
         people:
           - name: "Kuhu Jayaswal"
             role: "Hight Voltage Lead"
+            social:
+              - url: https://www.linkedin.com/in/kuhu-jayaswal/
+                icon: fab fa-linkedin-in
             image: assets/img/team/kuhu.jpg
           - name: "Jacob Keller"
             role: "Low Voltage Lead"
@@ -398,6 +401,9 @@ en: &DEFAULT_EN
           - name: "Tan Vu"
             role: "HV  "
             image: assets/img/team/tan.jpg
+          - name: "Harlan Haller"
+            role: "HV"
+            image: assets/img/team/harlan1.jpg
             
       - title: "Low Voltage"
         people:
@@ -430,9 +436,6 @@ en: &DEFAULT_EN
           - name: "Grant Rechtin"
             role: "Sensing  "
             image: assets/img/team/grant.jpg
-          - name: "Harlan Haller"
-            role: "Sensing"
-            image: assets/img/team/harlan1.jpg
           - name: "Luke Wei"
             role: "Sensing  "
             image: assets/img/team-photos/mk6square.jpg
