@@ -214,15 +214,6 @@ en: &DEFAULT_EN
     groups:
       - title: "Leadership"
         people:
-          - name: "Jake Hamilton"
-            role: "Project Manager"
-            image: assets/img/team/jake.jpg
-            social:
-              - url: https://www.linkedin.com/in/james-keller-hamilton-2593b1328/
-                icon: fab fa-linkedin-in
-              - url: https://www.jake-hamilton.com
-                icon: fas fa-globe
-
           - name: "Alyssa Aranda"
             role: "Mechanical System Lead"
             image: assets/img/team-photos/mk6square.jpg
@@ -244,6 +235,14 @@ en: &DEFAULT_EN
             social:
               - url: https://www.linkedin.com/in/meagan-lipsman
                 icon: fab fa-linkedin-in
+          - name: "Jake Hamilton"
+            role: "Project Manager"
+            image: assets/img/team/jake.jpg
+            social:
+              - url: https://www.linkedin.com/in/james-keller-hamilton-2593b1328/
+                icon: fab fa-linkedin-in
+              - url: https://www.jake-hamilton.com
+                icon: fas fa-globe
 
       - title: "Mechanical Sub-System Leads"
         people:
