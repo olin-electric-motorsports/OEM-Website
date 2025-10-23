@@ -357,21 +357,6 @@ en: &DEFAULT_EN
             role: "Cockpit  "
             image: assets/img/team/sofia.jpg
 
-      - title: "Integration"
-        people:
-          - name: "Akil Pugalenthi"
-            role: "Integration  "
-            image: assets/img/team/akil.jpg
-          - name: "Brandon Spiller"
-            role: "Integration"
-            image: assets/img/team-photos/mk6square.jpg
-          - name: "Duc Nguyen"
-            role: "Integration  "
-            image: assets/img/team/duc.jpg
-          - name: "Leo Liao"
-            role: "Integration  "
-            image: assets/img/team/leo.jpg
-
       - title: "Accumulator"
         people:
           - name: "Geraldo Rojas"
@@ -386,6 +371,24 @@ en: &DEFAULT_EN
           - name: "Poorvja Joshi"
             role: "Accumulator  "
             image: assets/img/team/poorvja.jpg
+    
+      - title: "Integration"
+        people:
+          - name: "Akil Pugalenthi"
+            role: "Integration  "
+            image: assets/img/team/akil.jpg
+          - name: "Brandon Spiller"
+            role: "Integration"
+            image: assets/img/team-photos/mk6square.jpg
+          - name: "Duc Nguyen"
+            role: "Integration  "
+            image: assets/img/team/duc.jpg
+          - name: "Leo Liao"
+            role: "Integration  "
+            image: assets/img/team/leo.jpg
+          - name: "Tierra Raiti"
+            role: "Sensing"
+            image: assets/img/team/tierra.jpg
 
       - title: "High Voltage"
         people:
@@ -445,9 +448,6 @@ en: &DEFAULT_EN
           - name: "Spencer Ng"
             role: "Sensing  "
             image: assets/img/team/spencer.jpg
-          - name: "Tierra Raiti"
-            role: "Sensing"
-            image: assets/img/team/tierra.jpg
           - name: "Xavier Nishikawa"
             role: "Sensing  "
             image: assets/img/team/xavier.jpg
