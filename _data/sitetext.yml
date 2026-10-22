@@ -218,16 +218,16 @@ en: &DEFAULT_EN
         people:
           - name: "Kefan Wu"
             role: "Mechanical System Lead"
-            image: assets/img/team/kefan.png
+            image: "assets/img/team-2026/kefan.png"
             social:
               - url: https://www.linkedin.com/in/kefan-wu-olin
                 icon: fab fa-linkedin-in
           - name: "Tan Vu"
             role: "Electrical System Lead"
-            image: assets/img/team/tan.png
+            image:  "assets/img/team-2026/tan.png"
           - name: "Jacob Keller"
             role: "Electrical System Lead"
-            image: assets/img/team/jacob.png
+            image: "assets/img/team-2026/jacob.png"
             social:
               - url: https://jacobkeller.me
                 icon: fas fa-globe
@@ -235,10 +235,10 @@ en: &DEFAULT_EN
                 icon: fab fa-linkedin-in
           - name: "Sherry Shen"
             role: "Operations Lead"
-            image: assets/img/team/sherry.png
+            image: "assets/img/team-2026/sherry.png"
           - name: "Lydia Byers"
             role: "Project Manager"
-            image: assets/img/team/lydia.png
+            image: "assets/img/team-2026/lydia.png"
             social:
               - url: https://www.linkedin.com/in/lydia-byers-20202a321
                 icon: fab fa-linkedin-in
@@ -247,202 +247,193 @@ en: &DEFAULT_EN
         people:
           - name: "AJ Bulow"
             role: "Aerodynamics Lead"
-            image: assets/img/team/AJ.png
+            image: "assets/img/team-2026/AJ.png"
           - name: "Eric Le"
             role: "Drivetrain Lead"
-            image: assets/img/team/eric.png
+            image: "assets/img/team-2026/eric.png"
           - name: "Will Beadle"
             role: "Suspension Lead"
-            image: assets/img/team/will.png
+            image: "assets/img/team-2026/will.png"
           - name: "Geraldo Rojas"
             role: "Accumulator Lead"
-            image: assets/img/team/geraldo.png
+            image: "assets/img/team-2026/geraldo.png"
 
       - title: "Electrical Sub-System Leads"
         people:
-          - name: "Kuhu Jayaswal"
-            role: "High Voltage Lead"
-            image: assets/img/team/kuhu.jpg
-            social:
-              - url: https://www.linkedin.com/in/kuhu-jayaswal/
-                icon: fab fa-linkedin-in
-          - name: "Troy Anderson"
-            role: "Integration Lead"
-            image: assets/img/team/troy.jpg
+        - name: "Akil Pugalenthi"
+          role: "Integration Lead"
+          image: "assets/img/team-2026/akil.png"
+        - name: "Harlan Haller"
+          role: "High Voltage Lead"
+          image: "assets/img/team-2026/harlon.png"
+        - name: "Matthew Townsend"
+          role: "Low Voltage Lead"
+          image: "assets/img/team/matthewt.jpg"
 
       - title: "Aerodynamics"
         people:
+          - name: "Anna Braun"
+            role: "Senior Engineer"
+            image: "assets/img/team-2026/anna.png"
           - name: "Toby Meehan"
             role: "Aerodynamics"
-            image: assets/img/team/toby.png
+            image: "assets/img/team-2026/toby.png"
           - name: "Kailash Wood"
             role: "Aerodynamics"
-            image: assets/img/team/kailash.png
+            image: "assets/img/team-2026/kailash.png"
           - name: "Elise Peneguy"
             role: "Aerodynamics"
-            image: assets/img/team/elise.png
+            image: "assets/img/team-2026/elise.png"
           - name: "Brandon Loaiza Rodriguez"
             role: "Aerodynamics"
-            image: assets/img/team/brandon.png
+            image: "assets/img/team-2026/brandon.png"
 
       - title: "Suspension"
         people:
           - name: "Ben Ricket"
             role: "Suspension"
-            image: assets/img/team/ben.png
+            image: "assets/img/team-2026/ben.png"
           - name: "Hai Kim"
             role: "Suspension"
-            image: assets/img/team/hai.png
+            image: "assets/img/team-2026/hai.png"
           - name: "Jonathan Sun"
             role: "Suspension"
-            image: assets/img/team-photos/mk6square.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Nathaniel Banse"
             role: "Suspension"
-            image: assets/img/team/nathaniel.jpg
+            image: "assets/img/team/nathaniel.jpg"
           - name: "Pia Swarup"
             role: "Suspension"
-            image: assets/img/team/pia.jpg
-          - name: "Will Beadle"
-            role: "Suspension Lead"
-            image: assets/img/team/will.png
+            image: "assets/img/team/pia.jpg"
           - name: "Zahra Lari"
             role: "Suspension"
-            image: assets/img/team/zahra.png
+            image: "assets/img/team-2026/zahra.png"
           - name: "Kayee Cheung"
             role: "Suspension"
-            image: assets/img/team/kayee.png
+            image: "assets/img/team-2026/kayee.png"
           - name: "Jerry Zhang"
             role: "Suspension"
-            image: assets/img/team/jerry.png
+            image: "assets/img/team-2026/jerry.png"
 
       - title: "Drivetrain"
         people:
-          - name: "Eric Le"
-            role: "Drivetrain Lead"
-            image: assets/img/team/eric.png
           - name: "Lucien Lin"
             role: "Drivetrain"
-            image: assets/img/team/Lucien.jpg
+            image: "assets/img/team/Lucien.jpg"
             social:
               - url: https://www.linkedin.com/in/lucienlin
                 icon: fab fa-linkedin-in
           - name: "Mehmet Firat"
             role: "Drivetrain"
-            image: assets/img/team/mehmet.jpg
+            image: "assets/img/team/mehmet.jpg"
             social:
               - url: https://www.linkedin.com/in/mehmetafirat
                 icon: fab fa-linkedin-in
           - name: "Yixin Zhou"
             role: "Drivetrain"
-            image: assets/img/team/yixin.jpg
+            image: "assets/img/team/yixin.jpg"
             social:
               - url: https://www.linkedin.com/in/yixin-zhou-542385271
                 icon: fab fa-linkedin-in
           - name: "Liam Connell"
             role: "Drivetrain"
-            image: assets/img/team/liam.png
+            image: "assets/img/team-2026/liam.png"
           - name: "Jack Epstein"
             role: "Drivetrain"
-            image: "assets/img/team/jack epsteine.png"
+            image: "assets/img/team-2026/jack epsteine.png"
           - name: "Isabella Messer"
             role: "Drivetrain"
-            image: assets/img/team/isabella.png
+            image: "assets/img/team-2026/isabella.png"
 
       - title: "Cockpit"
         people:
           - name: "Detch Mateedunsatits"
             role: "Cockpit"
-            image: assets/img/team/detch.jpg
+            image: "assets/img/team/detch.jpg"
           - name: "Maddie Connelly"
             role: "Cockpit"
-            image: assets/img/team/maddie.jpg
+            image: "assets/img/team/maddie.jpg"
           - name: "Sofia Ramos"
             role: "Cockpit"
-            image: assets/img/team/sofia.png
+            image: "assets/img/team-2026/sofia.png"
 
       - title: "Integration"
         people:
-          - name: "Akil Pugalenthi"
-            role: "Integration"
-            image: assets/img/team/akil.png
           - name: "Brandon Spiller"
             role: "Integration"
-            image: assets/img/team-photos/mk6square.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Duc Nguyen"
             role: "Integration"
-            image: assets/img/team/duc.jpg
+            image: "assets/img/team/duc.jpg"
           - name: "Leo Liao"
             role: "Integration"
-            image: assets/img/team/leo.jpg
+            image: "assets/img/team/leo.jpg"
           - name: "Tada"
             role: "Integration"
-            image: assets/img/team/tada.png
+            image: "assets/img/team-2026/tada.png"
           - name: "Sandra Gao"
             role: "Integration"
-            image: assets/img/team/sandra.png
+            image: "assets/img/team-2026/sandra.png"
           - name: "Anjum Khalifa"
             role: "Integration"
-            image: assets/img/team/anjum.png
+            image: "assets/img/team-2026/anjum.png"
           - name: "Alex Greytak"
             role: "Integration"
-            image: assets/img/team/alex.png
+            image: "assets/img/team-2026/alex.png"
 
       - title: "Accumulator"
         people:
-          - name: "Geraldo Rojas"
-            role: "Accumulator Lead"
-            image: assets/img/team/geraldo.png
           - name: "Ivry Frost"
             role: "Accumulator"
-            image: assets/img/team/ivry.jpg
+            image: "assets/img/team/ivry.jpg"
           - name: "Kai-Xing Yue"
             role: "Accumulator"
-            image: assets/img/team-photos/mk6square.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Poorvja Joshi"
             role: "Accumulator"
-            image: assets/img/team/poorvja.jpg
+            image: "assets/img/team/poorvja.jpg"
           - name: "Maya Dreymann"
             role: "Accumulator"
-            image: assets/img/team/maya.png
+            image: "assets/img/team-2026/maya.png"
           - name: "Aditi Gupta"
             role: "Accumulator"
-            image: "assets/img/team/aditi vinod.png"
+            image: "assets/img/team-2026/aditi vinod.png"
 
       - title: "High Voltage"
         people:
           - name: "David Bardelez"
             role: "High Voltage"
-            image: assets/img/team/david.jpg
+            image: "assets/img/team/david.jpg"
           - name: "Ethan Ju"
             role: "High Voltage"
-            image: assets/img/team/ethan.jpg
+            image:  "assets/img/team/ethan.jpg"
           - name: "Liam Fries"
             role: "High Voltage"
-            image: assets/img/team/liam.jpg
+            image: "assets/img/team/liam.jpg"
           - name: "Tony Zhang"
             role: "High Voltage"
-            image: assets/img/team/tony.png
+            image: "assets/img/team-2026/tony.png"
           - name: "Carter Baldwin"
             role: "High Voltage"
-            image: assets/img/team/carter.png
+            image: "assets/img/team-2026/carter.png"
           - name: "Averey Ku"
             role: "High Voltage"
-            image: assets/img/team/averey.png
+            image: "assets/img/team-2026/averey.png"
 
       - title: "Low Voltage"
         people:
           - name: "Iris Tang"
             role: "Low Voltage"
-            image: assets/img/team/iris.jpg
+            image: "assets/img/team/iris.jpg"
           - name: "Jack Goode"
             role: "Low Voltage"
-            image: assets/img/team/jack.png
+            image: "assets/img/team-2026/jack.png"
             social:
               - url: https://www.linkedin.com/in/jack-goode-a7b476386
                 icon: fab fa-linkedin-in
           - name: "Justin Yoon"
             role: "Low Voltage"
-            image: assets/img/team/justin.jpg
+            image: "assets/img/team/justin.jpg"
             social:
               - url: https://www.linkedin.com/in/jyoon06
                 icon: fab fa-linkedin-in
@@ -450,94 +441,70 @@ en: &DEFAULT_EN
                 icon: fas fa-globe
           - name: "Lukas Littlejohn"
             role: "Low Voltage"
-            image: assets/img/team/lukas.jpg
+            image: "assets/img/team/lukas.jpg"
           - name: "Serene Luo"
             role: "Low Voltage"
-            image: assets/img/team/serene.jpg
+            image: "assets/img/team/serene.jpg"
           - name: "Stefan Cutler"
             role: "Low Voltage"
-            image: assets/img/team/stefan.png
+            image: "assets/img/team-2026/stefan.png"
           - name: "Shivani Venkatesh"
             role: "Low Voltage"
-            image: assets/img/team/shivani.png
+            image: "assets/img/team-2026/shivani.png"
           - name: "Max Brennan"
             role: "Low Voltage"
-            image: assets/img/team/max.png
+            image: "assets/img/team-2026/max.png"
           - name: "Jordan Arnold-Anderson"
             role: "Low Voltage"
-            image: assets/img/team/jordan.png
+            image: "assets/img/team-2026/jordan.png"
           - name: "Ian Sim"
             role: "Low Voltage"
-            image: assets/img/team/ian.png
+            image:  "assets/img/team-2026/ian.png"
           - name: "Havalyn Hale"
             role: "Low Voltage"
-            image: assets/img/team/havalyn.png
+            image: "assets/img/team-2026/havalyn.png"
           - name: "Fahmida Hossan"
             role: "Low Voltage"
-            image: assets/img/team/Fahmida.png
+            image: "assets/img/team-2026/Fahmida.png"
           - name: "Ash Orchard"
             role: "Low Voltage"
-            image: assets/img/team/ash.png
+            image: "assets/img/team-2026/ash.png"
 
       - title: "Sensing"
         people:
           - name: "Grant Rechtin"
             role: "Sensing"
-            image: assets/img/team/grant.jpg
-          - name: "Harlan Haller"
-            role: "Sensing"
-            image: assets/img/team/harlon.png
+            image: "assets/img/team/grant.jpg"
           - name: "Luke Wei"
             role: "Sensing"
-            image: assets/img/team-photos/mk6square.jpg
-          - name: "Matthew Townsend"
-            role: "Sensing"
-            image: assets/img/team/matthewt.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Spencer Ng"
             role: "Sensing"
-            image: assets/img/team/spencer.jpg
+            image: "assets/img/team/spencer.jpg"
           - name: "Tierra Raiti"
             role: "Sensing"
-            image: assets/img/team/tierra.jpg
+            image: "assets/img/team/tierra.jpg"
           - name: "Xavier Nishikawa"
             role: "Sensing"
-            image: assets/img/team/xavier.jpg
+            image: "assets/img/team/xavier.jpg"
 
       - title: "Operations & Marketing"
         people:
-          - name: "Ishan Patel"
-            role: "Marketing"
-            image: assets/img/team-photos/mk6square.jpg
-          - name: "Lily Mosisa"
-            role: "Operations"
-            image: assets/img/team/lily.jpg
-          - name: "Rori Li"
-            role: "Operations"
-            image: assets/img/team/rori.jpg
-            social:
-              - url: https://linkedin.com/in/rori-xi-li
-                icon: fab fa-linkedin-in
-          - name: "Meagan Lipsman"
-            role: "Operations"
-            image: assets/img/team/meagan1.jpg
-            social:
-              - url: https://www.linkedin.com/in/meagan-lipsman
-                icon: fab fa-linkedin-in
           - name: "Harry Virdee"
             role: "Operations & Marketing"
-            image: assets/img/team/harry.png
+            image: "assets/img/team-2026/harry.png"
           - name: "Sage"
             role: "Operations & Marketing"
-            image: assets/img/team-photos/mk6square.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Jett Jasper"
             role: "Operations & Marketing"
-            image: assets/img/team-photos/mk6square.jpg
+            image: "assets/img/team-photos/mk6square.jpg"
 
       - title: "Senior Engineers"
         people:
           - name: "Jake Hamilton"
             role: "Senior Engineer"
-            image: assets/img/team/jake.jpg
+            image: "assets/img/team/jake.jpg"
             social:
               - url: https://www.linkedin.com/in/james-keller-hamilton-2593b1328/
                 icon: fab fa-linkedin-in
@@ -545,49 +512,26 @@ en: &DEFAULT_EN
                 icon: fas fa-globe
           - name: "Henry Tejada Deras"
             role: "Senior Engineer"
-            image: assets/img/team/henry.jpg
+            image: "assets/img/team/henry.jpg"
             social:
               - url: https://www.linkedin.com/in/henry-neftaly-tejada-deras/
                 icon: fab fa-linkedin-in
           - name: "Jacob Likins"
             role: "Senior Engineer"
-            image: assets/img/team/jacobl.jpg
+            image: "assets/img/team/jacobl.jpg"
           - name: "Alyssa Aranda"
             role: "Senior Engineer"
-            image: assets/img/team/alyssa.png
+            image: "assets/img/team-2026/alyssa.png"
             social:
               - url: https://www.linkedin.com/in/alyssaaranda/
                 icon: fab fa-linkedin-in
-          - name: "Anthony Cheung"
-            role: "Senior Engineer"
-            image: assets/img/team/Anthony2.jpg
-            social:
-              - url: https://www.linkedin.com/in/acheung09
-                icon: fab fa-linkedin-in
-          - name: "Darian Jimenez"
-            role: "Senior Engineer"
-            image: assets/img/team/Darian2.jpg
-            social:
-              - url: https://www.linkedin.com/in/darian-jimenez/
-                icon: fab fa-linkedin-in
-          - name: "Drew Pang"
-            role: "Senior Electrical Engineer"
-            image: assets/img/team-photos/mk6square.jpg
           - name: "Fiona McSherry"
             role: "Senior Engineer"
-            image: assets/img/team-photos/mk6square.jpg
-          - name: "Tabitha Davidson"
+            image: "assets/img/team-photos/mk6square.jpg"
+          - name: "Althea Ivins"
             role: "Senior Engineer"
-            image: assets/img/team/tabitha.jpg
-          - name: "Wynona Brinkmann"
-            role: "Senior Engineer"
-            image: assets/img/team/Wynona.jpg
-            social:
-              - url: https://www.linkedin.com/in/wynona-brinkmann-617220292
-                icon: fab fa-linkedin-in
-          - name: "Anna Braun"
-            role: "Senior Engineer"
-            image: assets/img/team/anna.png
+            image: "assets/img/team-photos/mk6square.jpg"
+          
 
 
   aboutSponsors:
