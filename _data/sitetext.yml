@@ -222,9 +222,6 @@ en: &DEFAULT_EN
             social:
               - url: https://www.linkedin.com/in/kefan-wu-olin
                 icon: fab fa-linkedin-in
-          - name: "Tan Vu"
-            role: "Electrical System Lead"
-            image:  "assets/img/team-2026/tan.png"
           - name: "Jacob Keller"
             role: "Electrical System Lead"
             image: "assets/img/team-2026/jacob.png"
@@ -233,6 +230,9 @@ en: &DEFAULT_EN
                 icon: fas fa-globe
               - url: https://www.linkedin.com/in/jacob-keller-profile
                 icon: fab fa-linkedin-in
+          - name: "Tan Vu"
+            role: "Electrical System Lead"
+            image:  "assets/img/team-2026/tan.png"
           - name: "Sherry Shen"
             role: "Operations Lead"
             image: "assets/img/team-2026/sherry.png"
