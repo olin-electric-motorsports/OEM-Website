@@ -428,15 +428,21 @@ en: &DEFAULT_EN
           - name: "Averey Ku"
             role: "High Voltage"
             image: "assets/img/team-2026/averey.png"
+          - name: "Stefan Cutler"
+            role: "High Voltage"
+            image: "assets/img/team-2026/stefan.png"
 
       - title: "Low Voltage"
         people:
-          - name: "Serene Luo"
+          - name: "Luke Wei"
+            role: "Sensing"
+            image: "assets/img/team-photos/mk6square.jpg"
+          - name: "Havalyn Hale"
             role: "Low Voltage"
-            image: "assets/img/team/serene.jpg"
-          - name: "Stefan Cutler"
-            role: "Low Voltage"
-            image: "assets/img/team-2026/stefan.png"
+            image: "assets/img/team-2026/havalyn.png"
+          - name: "Spencer Ng"
+            role: "Sensing"
+            image: "assets/img/team/spencer.jpg"
           - name: "Shivani Venkatesh"
             role: "Low Voltage"
             image: "assets/img/team-2026/shivani.png"
@@ -449,9 +455,6 @@ en: &DEFAULT_EN
           - name: "Ian Sim"
             role: "Low Voltage"
             image:  "assets/img/team-2026/ian.png"
-          - name: "Havalyn Hale"
-            role: "Low Voltage"
-            image: "assets/img/team-2026/havalyn.png"
           - name: "Fahmida Hossan"
             role: "Low Voltage"
             image: "assets/img/team-2026/fahmida.png"
@@ -459,17 +462,6 @@ en: &DEFAULT_EN
             role: "Low Voltage"
             image: "assets/img/team-2026/ash.png"
 
-      - title: "Sensing"
-        people:
-          - name: "Grant Rechtin"
-            role: "Sensing"
-            image: "assets/img/team/grant.jpg"
-          - name: "Spencer Ng"
-            role: "Sensing"
-            image: "assets/img/team/spencer.jpg"
-          - name: "Xavier Nishikawa"
-            role: "Sensing"
-            image: "assets/img/team/xavier.jpg"
 
       - title: "Operations & Marketing"
         people:
@@ -517,9 +509,6 @@ en: &DEFAULT_EN
           - name: "Lukas Littlejohn"
             role: "Senior Engineer"
             image: "assets/img/team/lukas.jpg"
-          - name: "Luke Wei"
-            role: "Sensing"
-            image: "assets/img/team-photos/mk6square.jpg"
 
 
   aboutSponsors:
