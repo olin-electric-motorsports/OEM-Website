@@ -263,7 +263,7 @@ en: &DEFAULT_EN
 
       - title: "Electrical Sub-System Leads"
         people:
-           - name: "Akil Pugalenthi"
+          - name: "Akil Pugalenthi"
             role: "Integration Lead"
             image: "assets/img/team-2026/akil.png"
             social:
