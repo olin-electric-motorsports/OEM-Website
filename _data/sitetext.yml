@@ -263,15 +263,15 @@ en: &DEFAULT_EN
 
       - title: "Electrical Sub-System Leads"
         people:
-        - name: "Akil Pugalenthi"
-          role: "Integration Lead"
-          image: "assets/img/team-2026/akil.png"
-        - name: "Harlan Haller"
-          role: "High Voltage Lead"
-          image: "assets/img/team-2026/harlan.png"
-        - name: "Matthew Townsend"
-          role: "Low Voltage Lead"
-          image: "assets/img/team/matthewt.jpg"
+          - name: "Akil Pugalenthi"
+            role: "Integration Lead"
+            image: "assets/img/team-2026/akil.png"
+          - name: "Harlan Haller"
+            role: "High Voltage Lead"
+            image: "assets/img/team-2026/harlan.png"
+          - name: "Matthew Townsend"
+            role: "Low Voltage Lead"
+            image: "assets/img/team/matthewt.jpg"
 
       - title: "Aerodynamics"
         people:
@@ -451,7 +451,7 @@ en: &DEFAULT_EN
             image: "assets/img/team-2026/havalyn.png"
           - name: "Fahmida Hossan"
             role: "Low Voltage"
-            image: "assets/img/team-2026/fahmida.png"
+            image: "assets/img/team-2026/Fahmida.png"
           - name: "Ash Orchard"
             role: "Low Voltage"
             image: "assets/img/team-2026/ash.png"
@@ -511,13 +511,12 @@ en: &DEFAULT_EN
           - name: "Althea Ivins"
             role: "Senior Engineer"
             image: "assets/img/team-photos/mk6square.jpg"
-            - name: "Lukas Littlejohn"
+          - name: "Lukas Littlejohn"
             role: "Senior Engineer"
             image: "assets/img/team/lukas.jpg"
-             - name: "Luke Wei"
+          - name: "Luke Wei"
             role: "Sensing"
             image: "assets/img/team-photos/mk6square.jpg"
-          
 
 
   aboutSponsors:
