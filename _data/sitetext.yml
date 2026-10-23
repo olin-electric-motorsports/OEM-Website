@@ -389,10 +389,7 @@ en: &DEFAULT_EN
           - name: "Ivry Frost"
             role: "Accumulator"
             image: "assets/img/team/ivry.jpg"
-          - name: "Kai-Xing Yue"
-            role: "Accumulator"
-            image: "assets/img/team-photos/mk6square.jpg"
-             name: "Jack Goode"
+          - name: "Jack Goode"
             role: "Low Voltage"
             image: "assets/img/team-2026/jack.png"
             social:
