@@ -236,6 +236,9 @@ en: &DEFAULT_EN
           - name: "Sherry Shen"
             role: "Operations Lead"
             image: "assets/img/team-2026/sherry.png"
+            social:
+            - url: "https://www.linkedin.com/in/sherry-shen-234591390/"
+              icon: "fab fa-linkedin-in"
           - name: "Lydia Byers"
             role: "Project Manager"
             image: "assets/img/team-2026/lydia.png"
@@ -265,7 +268,7 @@ en: &DEFAULT_EN
           image: "assets/img/team-2026/akil.png"
         - name: "Harlan Haller"
           role: "High Voltage Lead"
-          image: "assets/img/team-2026/harlon.png"
+          image: "assets/img/team-2026/harlan.png"
         - name: "Matthew Townsend"
           role: "Low Voltage Lead"
           image: "assets/img/team/matthewt.jpg"
@@ -389,6 +392,12 @@ en: &DEFAULT_EN
           - name: "Kai-Xing Yue"
             role: "Accumulator"
             image: "assets/img/team-photos/mk6square.jpg"
+             name: "Jack Goode"
+            role: "Low Voltage"
+            image: "assets/img/team-2026/jack.png"
+            social:
+              - url: https://www.linkedin.com/in/jack-goode-a7b476386
+                icon: fab fa-linkedin-in
           - name: "Poorvja Joshi"
             role: "Accumulator"
             image: "assets/img/team/poorvja.jpg"
@@ -422,26 +431,6 @@ en: &DEFAULT_EN
 
       - title: "Low Voltage"
         people:
-          - name: "Iris Tang"
-            role: "Low Voltage"
-            image: "assets/img/team/iris.jpg"
-          - name: "Jack Goode"
-            role: "Low Voltage"
-            image: "assets/img/team-2026/jack.png"
-            social:
-              - url: https://www.linkedin.com/in/jack-goode-a7b476386
-                icon: fab fa-linkedin-in
-          - name: "Justin Yoon"
-            role: "Low Voltage"
-            image: "assets/img/team/justin.jpg"
-            social:
-              - url: https://www.linkedin.com/in/jyoon06
-                icon: fab fa-linkedin-in
-              - url: https://yoonarchive.com/
-                icon: fas fa-globe
-          - name: "Lukas Littlejohn"
-            role: "Low Voltage"
-            image: "assets/img/team/lukas.jpg"
           - name: "Serene Luo"
             role: "Low Voltage"
             image: "assets/img/team/serene.jpg"
@@ -475,9 +464,6 @@ en: &DEFAULT_EN
           - name: "Grant Rechtin"
             role: "Sensing"
             image: "assets/img/team/grant.jpg"
-          - name: "Luke Wei"
-            role: "Sensing"
-            image: "assets/img/team-photos/mk6square.jpg"
           - name: "Spencer Ng"
             role: "Sensing"
             image: "assets/img/team/spencer.jpg"
@@ -490,7 +476,7 @@ en: &DEFAULT_EN
           - name: "Harry Virdee"
             role: "Operations & Marketing"
             image: "assets/img/team-2026/harry.png"
-          - name: "Sage"
+          - name: "Sage Gilbert-Diamond"
             role: "Operations & Marketing"
             image: "assets/img/team-photos/mk6square.jpg"
           - name: "Jett Jasper"
@@ -527,6 +513,12 @@ en: &DEFAULT_EN
             image: "assets/img/team-photos/mk6square.jpg"
           - name: "Althea Ivins"
             role: "Senior Engineer"
+            image: "assets/img/team-photos/mk6square.jpg"
+            - name: "Lukas Littlejohn"
+            role: "Senior Engineer"
+            image: "assets/img/team/lukas.jpg"
+             - name: "Luke Wei"
+            role: "Sensing"
             image: "assets/img/team-photos/mk6square.jpg"
           
 
