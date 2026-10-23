@@ -431,6 +431,9 @@ en: &DEFAULT_EN
           - name: "Stefan Cutler"
             role: "High Voltage"
             image: "assets/img/team-2026/stefan.png"
+          - name: "Sarah Shan"
+            role: "High Voltage"
+            image: "assets/img/team-photos/mk6square.jpg"
 
       - title: "Low Voltage"
         people:
