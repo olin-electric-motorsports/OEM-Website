@@ -263,9 +263,12 @@ en: &DEFAULT_EN
 
       - title: "Electrical Sub-System Leads"
         people:
-          - name: "Akil Pugalenthi"
+           - name: "Akil Pugalenthi"
             role: "Integration Lead"
             image: "assets/img/team-2026/akil.png"
+            social:
+              - url: "https://www.linkedin.com/in/akil-pugalenthi/"
+                icon: "fab fa-linkedin-in"
           - name: "Harlan Haller"
             role: "High Voltage Lead"
             image: "assets/img/team-2026/harlan.png"
