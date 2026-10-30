@@ -386,6 +386,9 @@ en: &DEFAULT_EN
           - name: "Alex Greytak"
             role: "Integration"
             image: "assets/img/team-2026/alex.png"
+          - name: "Avani Patil"
+            role: "Integration"
+            image: "assets/img/team-photos/mk6square.jpg"
 
       - title: "Accumulator"
         people:
